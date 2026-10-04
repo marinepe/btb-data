@@ -1,6 +1,25 @@
 {
-  "genere_le": "2026-10-04T16:03:46.908Z",
+  "genere_le": "2026-10-04T16:05:11.089Z",
   "cercles": [
+    {
+      "nom": "Lyon",
+      "court": "Lyon",
+      "titre": "Cercle de Lyon",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "69",
+      "depNom": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Lyon",
+      "lieu": "Rhône (69) · Lyon",
+      "lat": 45.75917,
+      "lon": 4.82965,
+      "boosteuses": [
+        "Julia"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
     {
       "nom": "Côte d’Emeraude",
       "court": "Côte d’Emeraude",
@@ -238,6 +257,25 @@
       "lon": -1.17891,
       "boosteuses": [
         "Marine"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.29337,
+      "lon": 5.37133,
+      "boosteuses": [
+        "Ingrid"
       ],
       "metiers": [],
       "recherches": []
