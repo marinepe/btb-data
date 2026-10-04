@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-04T15:26:36.609Z",
+  "genere_le": "2026-10-04T15:41:01.893Z",
   "cercles": [
     {
       "nom": "Côte d’Emeraude",
@@ -12,8 +12,8 @@
       "region": "Bretagne",
       "villes": "Saint-Malo",
       "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "lat": 48.65058,
+      "lon": -2.02315,
       "boosteuses": [
         "Aurélie"
       ],
@@ -31,10 +31,29 @@
       "region": "Bretagne",
       "villes": "Quimper",
       "lieu": "Finistère (29) · Quimper",
-      "lat": 47.9982,
-      "lon": -4.0972,
+      "lat": 47.99471,
+      "lon": -4.10792,
       "boosteuses": [
         "Gaëlle"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.57707,
+      "lon": -3.82621,
+      "boosteuses": [
+        "Marie"
       ],
       "metiers": [],
       "recherches": []
@@ -50,8 +69,8 @@
       "region": "Île-de-France",
       "villes": "Meaux, Mareuil-lès-Meaux",
       "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
-      "lat": 48.9573,
-      "lon": 2.9035,
+      "lat": 48.95935,
+      "lon": 2.88305,
       "boosteuses": [
         "Margaux",
         "Camille"
@@ -70,8 +89,8 @@
       "region": "Île-de-France",
       "villes": "Montfort-l'Amaury",
       "lieu": "Yvelines (78) · Montfort-l'Amaury",
-      "lat": 48.7717,
-      "lon": 1.8081,
+      "lat": 48.77682,
+      "lon": 1.8063,
       "boosteuses": [
         "Astrid"
       ],
@@ -89,8 +108,8 @@
       "region": "Île-de-France",
       "villes": "Paris",
       "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "lat": 48.86471,
+      "lon": 2.39866,
       "boosteuses": [
         "Chantal"
       ],
@@ -108,8 +127,8 @@
       "region": "Île-de-France",
       "villes": "Ris-Orangis",
       "lieu": "Essonne (91) · Ris-Orangis",
-      "lat": 48.6457,
-      "lon": 2.4104,
+      "lat": 48.64968,
+      "lon": 2.40964,
       "boosteuses": [
         "Hanan"
       ],
@@ -127,8 +146,8 @@
       "region": "Nouvelle-Aquitaine",
       "villes": "Agen",
       "lieu": "Lot-et-Garonne (47) · Agen",
-      "lat": 44.201,
-      "lon": 0.6302,
+      "lat": 44.20147,
+      "lon": 0.61419,
       "boosteuses": [
         "Margot"
       ],
@@ -146,8 +165,8 @@
       "region": "Nouvelle-Aquitaine",
       "villes": "Villeneuve-sur-Lot",
       "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "lat": 44.40309,
+      "lon": 0.70465,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -166,8 +185,8 @@
       "region": "Pays de la Loire",
       "villes": "Ancenis-Saint-Géréon",
       "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "lat": 47.37208,
+      "lon": -1.17891,
       "boosteuses": [
         "Marine"
       ],
