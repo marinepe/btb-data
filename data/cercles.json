@@ -1,1 +1,217 @@
-   {"cercles":[]}
+{
+  "genere_le": "2026-10-04T15:26:36.609Z",
+  "cercles": [
+    {
+      "nom": "Côte d’Emeraude",
+      "court": "Côte d’Emeraude",
+      "titre": "Cercle de la Côte d'Émeraude",
+      "format": "presentiel",
+      "statut": "actif",
+      "dep": "35",
+      "depNom": "Ille-et-Vilaine",
+      "region": "Bretagne",
+      "villes": "Saint-Malo",
+      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
+      "lat": 48.6465,
+      "lon": -2.0066,
+      "boosteuses": [
+        "Aurélie"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Quimper",
+      "court": "Quimper",
+      "titre": "Cercle de Quimper",
+      "format": "presentiel",
+      "statut": "actif",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
+      "boosteuses": [
+        "Gaëlle"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Meaux",
+      "court": "Meaux",
+      "titre": "Cercle de Meaux",
+      "format": "presentiel",
+      "statut": "actif",
+      "dep": "77",
+      "depNom": "Seine-et-Marne",
+      "region": "Île-de-France",
+      "villes": "Meaux, Mareuil-lès-Meaux",
+      "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
+      "lat": 48.9573,
+      "lon": 2.9035,
+      "boosteuses": [
+        "Margaux",
+        "Camille"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Montfort-l'Amaury",
+      "court": "Montfort-l'Amaury",
+      "titre": "Cercle de Montfort-l'Amaury",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Montfort-l'Amaury",
+      "lieu": "Yvelines (78) · Montfort-l'Amaury",
+      "lat": 48.7717,
+      "lon": 1.8081,
+      "boosteuses": [
+        "Astrid"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Paris",
+      "court": "Paris",
+      "titre": "Cercle de Paris",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "75",
+      "depNom": "Paris",
+      "region": "Île-de-France",
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
+      "boosteuses": [
+        "Chantal"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Ris-Orangis",
+      "court": "Ris-Orangis",
+      "titre": "Cercle de Ris-Orangis",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "91",
+      "depNom": "Essonne",
+      "region": "Île-de-France",
+      "villes": "Ris-Orangis",
+      "lieu": "Essonne (91) · Ris-Orangis",
+      "lat": 48.6457,
+      "lon": 2.4104,
+      "boosteuses": [
+        "Hanan"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Agen",
+      "court": "Agen",
+      "titre": "Cercle d'Agen",
+      "format": "presentiel",
+      "statut": "actif",
+      "dep": "47",
+      "depNom": "Lot-et-Garonne",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
+      "boosteuses": [
+        "Margot"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Grand Villeneuvois",
+      "court": "Grand Villeneuvois",
+      "titre": "Cercle du Grand Villeneuvois",
+      "format": "presentiel",
+      "statut": "actif",
+      "dep": "47",
+      "depNom": "Lot-et-Garonne",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
+      "boosteuses": [
+        "Mélanie",
+        "Nathalie"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Ancenis",
+      "court": "Ancenis",
+      "titre": "Cercle d'Ancenis",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
+      "boosteuses": [
+        "Marine"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Synergia",
+      "court": "Synergia",
+      "titre": "Cercle digital Synergia",
+      "format": "distanciel",
+      "statut": "actif",
+      "dep": null,
+      "depNom": null,
+      "region": "En ligne",
+      "villes": "digital, en ligne, visio, a distance",
+      "lieu": "En visio · ouvert partout en France",
+      "lat": null,
+      "lon": null,
+      "boosteuses": [
+        "Pauline",
+        "Alice"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Digital 2",
+      "court": "Digital 2",
+      "titre": "Cercle digital 2",
+      "format": "distanciel",
+      "statut": "lancement",
+      "dep": null,
+      "depNom": null,
+      "region": "En ligne",
+      "villes": "digital, en ligne, visio, a distance",
+      "lieu": "En visio · ouvert partout en France",
+      "lat": null,
+      "lon": null,
+      "boosteuses": [
+        "Gaëlle"
+      ],
+      "metiers": [],
+      "recherches": []
+    }
+  ]
+}
