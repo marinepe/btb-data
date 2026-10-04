@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-04T15:41:01.893Z",
+  "genere_le": "2026-10-04T15:47:12.130Z",
   "cercles": [
     {
       "nom": "Côte d’Emeraude",
@@ -17,7 +17,14 @@
       "boosteuses": [
         "Aurélie"
       ],
-      "metiers": [],
+      "metiers": [
+        "Agent d'assurance",
+        "Architecte",
+        "Consultante organisation et processus",
+        "Consultante RSE",
+        "Thérapeute",
+        "Adjointe de direction"
+      ],
       "recherches": []
     },
     {
@@ -75,7 +82,14 @@
         "Margaux",
         "Camille"
       ],
-      "metiers": [],
+      "metiers": [
+        "Graphiste",
+        "Community Manager",
+        "Décoratrice d'intérieur",
+        "Agriculturice",
+        "Coach et formatrice",
+        "Courtier en crédit"
+      ],
       "recherches": []
     },
     {
@@ -151,7 +165,14 @@
       "boosteuses": [
         "Margot"
       ],
-      "metiers": [],
+      "metiers": [
+        "Photographe",
+        "Notaire",
+        "Institut de beauté",
+        "Thérapeute",
+        "Agent Immobilier",
+        "Agent d'assurance"
+      ],
       "recherches": []
     },
     {
@@ -171,7 +192,12 @@
         "Mélanie",
         "Nathalie"
       ],
-      "metiers": [],
+      "metiers": [
+        "Agent Immobilier",
+        "DAF externalisée",
+        "Agriculturice",
+        "Société de rénovation"
+      ],
       "recherches": []
     },
     {
@@ -210,8 +236,28 @@
         "Pauline",
         "Alice"
       ],
-      "metiers": [],
-      "recherches": []
+      "metiers": [
+        "Structuration d’entreprise aide dirigeant",
+        "Carrière et business coach",
+        "Conseil en gestion de patrimoine",
+        "Experte comptable commissaire aux comptes",
+        "Avocate droit du travail",
+        "Aide à la décision",
+        "Appel d'offres/subventions",
+        "Agence produits dérivés objects publicitaires",
+        "Cabinet recrutement (finance)"
+      ],
+      "recherches": [
+        "RH externalisée",
+        "Avocate droit des affaires et fiscaliste",
+        "SEA/O – gestion marketing digital",
+        "Assistante externalisée",
+        "Notaire",
+        "IA et automatisation",
+        "DAF externalisée",
+        "Agence évènementielle",
+        "Agence de communication"
+      ]
     },
     {
       "nom": "Digital 2",
