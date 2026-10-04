@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-04T16:00:59.523Z",
+  "genere_le": "2026-10-04T16:02:40.452Z",
   "cercles": [
     {
       "nom": "Côte d’Emeraude",
@@ -61,6 +61,25 @@
       "lon": -3.82621,
       "boosteuses": [
         "Marie"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lille",
+      "court": "Lille",
+      "titre": "Cercle de Lille",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "59",
+      "depNom": "Nord",
+      "region": "Hauts-de-France",
+      "villes": "Lille",
+      "lieu": "Nord (59) · Lille",
+      "lat": 50.6282,
+      "lon": 3.06881,
+      "boosteuses": [
+        "Sandy"
       ],
       "metiers": [],
       "recherches": []
