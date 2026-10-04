@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-04T15:47:12.130Z",
+  "genere_le": "2026-10-04T15:50:09.839Z",
   "cercles": [
     {
       "nom": "Côte d’Emeraude",
@@ -146,7 +146,11 @@
       "boosteuses": [
         "Hanan"
       ],
-      "metiers": [],
+      "metiers": [
+        "Carrière et business coach",
+        "Community Manager",
+        "Consultante RSE"
+      ],
       "recherches": []
     },
     {
