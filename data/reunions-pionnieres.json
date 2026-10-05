@@ -1,1 +1,57 @@
-
+{
+  "genere_le": "2026-10-05T10:40:45.751Z",
+  "reunions": [
+    {
+      "debut": "2026-10-16T09:00:00.000Z",
+      "fin": "2026-10-16T10:30:00.000Z",
+      "lien": "https://app.notion.com/p/PIONNIERES-Ouvrir-un-cercle-Bouge-ta-Bo-te-dans-sa-ville-38f968cfa208812ea9f9ee62aa271e96"
+    },
+    {
+      "debut": "2026-10-27T14:00:00.000Z",
+      "fin": "2026-10-27T15:30:00.000Z",
+      "lien": "https://app.notion.com/p/PIONNIERES-Ouvrir-un-cercle-Bouge-ta-Bo-te-dans-sa-ville-3a5968cfa208818a83dfda39986f5014"
+    },
+    {
+      "debut": "2026-11-20T10:00:00.000Z",
+      "fin": "2026-11-20T11:30:00.000Z",
+      "lien": "https://app.notion.com/p/PIONNIERES-Ouvrir-un-cercle-Bouge-ta-Bo-te-dans-sa-ville-38f968cfa2088191b12eed406e6e663b"
+    },
+    {
+      "debut": "2026-12-10T10:00:00.000Z",
+      "fin": "2026-12-10T11:30:00.000Z",
+      "lien": "https://app.notion.com/p/PIONNIERES-Ouvrir-un-cercle-Bouge-ta-Bo-te-dans-sa-ville-38f968cfa20881f4a4c7e1b4287bb137"
+    }
+  ],
+  "formations": [
+    {
+      "debut": "2026-10-29T08:30:00.000Z",
+      "fin": "2026-10-29T16:00:00.000Z"
+    },
+    {
+      "debut": "2026-12-16T08:30:00.000Z",
+      "fin": "2026-12-16T16:00:00.000Z"
+    }
+  ],
+  "boostups": [
+    {
+      "debut": "2026-10-14T11:00:00.000Z",
+      "fin": "2026-10-14T12:30:00.000Z"
+    },
+    {
+      "debut": "2026-10-28T11:30:00.000Z",
+      "fin": "2026-10-28T13:00:00.000Z"
+    },
+    {
+      "debut": "2026-11-12T08:30:00.000Z",
+      "fin": "2026-11-12T10:00:00.000Z"
+    },
+    {
+      "debut": "2026-11-25T10:00:00.000Z",
+      "fin": "2026-11-25T11:30:00.000Z"
+    },
+    {
+      "debut": "2026-12-08T12:00:00.000Z",
+      "fin": "2026-12-08T13:30:00.000Z"
+    }
+  ]
+}
