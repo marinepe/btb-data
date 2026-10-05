@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-05T10:53:13.590Z",
+  "genere_le": "2026-10-05T12:44:25.106Z",
   "reunions": [
     {
       "debut": "2026-10-16T09:00:00.000Z",
@@ -52,6 +52,112 @@
     {
       "debut": "2026-12-08T12:00:00.000Z",
       "fin": "2026-12-08T13:30:00.000Z"
+    }
+  ],
+  "experiences": [
+    {
+      "debut": "2026-10-15T10:30:00.000Z",
+      "fin": "2026-10-15T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27-84bfa7"
+    },
+    {
+      "debut": "2026-10-22T07:30:00.000Z",
+      "fin": "2026-10-22T09:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101"
+    },
+    {
+      "debut": "2026-10-27T11:30:00.000Z",
+      "fin": "2026-10-27T13:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27"
+    },
+    {
+      "debut": "2026-11-10T11:30:00.000Z",
+      "fin": "2026-11-10T13:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27-49d761"
+    },
+    {
+      "debut": "2026-11-13T08:30:00.000Z",
+      "fin": "2026-11-13T10:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101-60d318-295def"
+    },
+    {
+      "debut": "2026-11-20T08:30:00.000Z",
+      "fin": "2026-11-20T10:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101-60d318"
+    }
+  ],
+  "invitees": [
+    {
+      "debut": "2026-10-08T09:30:00.000Z",
+      "fin": "2026-10-08T11:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-7dc698",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2026-10-12T09:00:00.000Z",
+      "fin": "2026-10-12T10:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-d90823",
+      "cercle": "Quimper"
+    },
+    {
+      "debut": "2026-10-12T10:00:00.000Z",
+      "fin": "2026-10-12T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/cercle-digital-1-8d2af3-1a55f1-1c9860-70a06a",
+      "cercle": "Synergia"
+    },
+    {
+      "debut": "2026-10-22T09:30:00.000Z",
+      "fin": "2026-10-22T11:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-bae9d0",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2026-10-26T10:00:00.000Z",
+      "fin": "2026-10-26T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-766bcc",
+      "cercle": "Quimper"
+    },
+    {
+      "debut": "2026-11-05T10:30:00.000Z",
+      "fin": "2026-11-05T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-013104",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2026-11-09T10:00:00.000Z",
+      "fin": "2026-11-09T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-71e591",
+      "cercle": "Quimper"
+    },
+    {
+      "debut": "2026-11-19T10:30:00.000Z",
+      "fin": "2026-11-19T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-6b7f9a",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2026-11-23T10:00:00.000Z",
+      "fin": "2026-11-23T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-4fd117",
+      "cercle": "Quimper"
+    },
+    {
+      "debut": "2026-12-03T10:30:00.000Z",
+      "fin": "2026-12-03T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-a88ac7",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2026-12-07T10:00:00.000Z",
+      "fin": "2026-12-07T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-64fa8b",
+      "cercle": "Quimper"
+    },
+    {
+      "debut": "2026-12-17T10:30:00.000Z",
+      "fin": "2026-12-17T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-98c69f",
+      "cercle": "Meaux"
     }
   ]
 }
