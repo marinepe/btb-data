@@ -1,25 +1,6 @@
 {
-  "genere_le": "2026-10-05T08:01:34.905Z",
+  "genere_le": "2026-10-05T08:10:00.559Z",
   "cercles": [
-    {
-      "nom": "Lyon",
-      "court": "Lyon",
-      "titre": "Cercle de Lyon",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "69",
-      "depNom": "Rhône",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Lyon",
-      "lieu": "Rhône (69) · Lyon",
-      "lat": 45.75917,
-      "lon": 4.82965,
-      "boosteuses": [
-        "Julia"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
     {
       "nom": "Côte d’Emeraude",
       "court": "Côte d’Emeraude",
@@ -80,25 +61,6 @@
       "lon": -3.82621,
       "boosteuses": [
         "Marie"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Lille",
-      "court": "Lille",
-      "titre": "Cercle de Lille",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "59",
-      "depNom": "Nord",
-      "region": "Hauts-de-France",
-      "villes": "Lille",
-      "lieu": "Nord (59) · Lille",
-      "lat": 50.6282,
-      "lon": 3.06881,
-      "boosteuses": [
-        "Sandy"
       ],
       "metiers": [],
       "recherches": []
@@ -257,25 +219,6 @@
       "lon": -1.17891,
       "boosteuses": [
         "Marine"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Marseille",
-      "court": "Marseille",
-      "titre": "Cercle de Marseille",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "13",
-      "depNom": "Bouches-du-Rhône",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Marseille",
-      "lieu": "Bouches-du-Rhône (13) · Marseille",
-      "lat": 43.29337,
-      "lon": 5.37133,
-      "boosteuses": [
-        "Ingrid"
       ],
       "metiers": [],
       "recherches": []
