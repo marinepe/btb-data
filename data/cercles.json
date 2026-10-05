@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-05T12:00:58.886Z",
+  "genere_le": "2026-10-05T13:00:59.234Z",
   "cercles": [
     {
       "nom": "Côte d’Emeraude",
@@ -277,7 +277,8 @@
       "lat": null,
       "lon": null,
       "boosteuses": [
-        "Gaëlle"
+        "Gaëlle",
+        "Fanny"
       ],
       "metiers": [],
       "recherches": []
