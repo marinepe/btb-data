@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-06T22:01:01.104Z",
+  "genere_le": "2026-10-07T04:01:01.460Z",
   "semaine": {
     "publications": 19,
     "commentaires": 35,
@@ -13,7 +13,7 @@
   },
   "mois": {
     "publications": 43,
-    "commentaires": 116,
+    "commentaires": 117,
     "membres_actives": 36,
     "reactions": 191,
     "espaces_actifs": [
@@ -25,6 +25,6 @@
   "membres_total": 455,
   "contacts_total": 455,
   "publications_total": 319,
-  "commentaires_total": 715,
+  "commentaires_total": 716,
   "evenements_a_venir_30j": 28
 }
