@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-08T07:00:10.544Z",
+  "genere_le": "2026-10-08T10:00:11.227Z",
   "reunions": [
     {
       "debut": "2026-10-16T09:00:00.000Z",
@@ -88,12 +88,6 @@
   ],
   "invitees": [
     {
-      "debut": "2026-10-08T09:30:00.000Z",
-      "fin": "2026-10-08T11:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-7dc698",
-      "cercle": "Meaux"
-    },
-    {
       "debut": "2026-10-12T09:00:00.000Z",
       "fin": "2026-10-12T10:30:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-d90823",
@@ -157,6 +151,12 @@
       "debut": "2026-12-17T10:30:00.000Z",
       "fin": "2026-12-17T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-98c69f",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2026-12-31T10:30:00.000Z",
+      "fin": "2026-12-31T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-d16531",
       "cercle": "Meaux"
     }
   ]
