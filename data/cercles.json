@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-06T20:26:05.513Z",
+  "genere_le": "2026-10-08T08:14:27.715Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -130,6 +130,23 @@
       "boosteuses": [
         "Marie"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Vannes",
+      "court": "Vannes",
+      "titre": "Cercle de Vannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "56",
+      "depNom": "Morbihan",
+      "region": "Bretagne",
+      "villes": "Vannes",
+      "lieu": "Morbihan (56) · Vannes",
+      "lat": 47.6577,
+      "lon": -2.7485,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -273,6 +290,23 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Maur",
+      "court": "Saint-Maur",
+      "titre": "Cercle de Saint-Maur",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "94",
+      "depNom": "Val-de-Marne",
+      "region": "Île-de-France",
+      "villes": "Saint-Maur-des-Fossés",
+      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
+      "lat": 48.7999,
+      "lon": 2.4921,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Versailles",
       "court": "Versailles",
       "titre": "Cercle de Versailles",
@@ -285,6 +319,23 @@
       "lieu": "Yvelines (78) · Versailles",
       "lat": 48.8039,
       "lon": 2.1191,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Rouen",
+      "court": "Rouen",
+      "titre": "Cercle de Rouen",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "76",
+      "depNom": "Seine-Maritime",
+      "region": "Normandie",
+      "villes": "Rouen",
+      "lieu": "Seine-Maritime (76) · Rouen",
+      "lat": 49.4412,
+      "lon": 1.0912,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -440,6 +491,23 @@
       "lieu": "Maine-et-Loire (49) · Angers",
       "lat": 47.4819,
       "lon": -0.5629,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Laval",
+      "court": "Laval",
+      "titre": "Cercle de Laval",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "53",
+      "depNom": "Mayenne",
+      "region": "Pays de la Loire",
+      "villes": "Laval",
+      "lieu": "Mayenne (53) · Laval",
+      "lat": 48.0578,
+      "lon": -0.7692,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
