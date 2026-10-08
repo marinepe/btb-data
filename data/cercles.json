@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-08T12:00:15.682Z",
+  "genere_le": "2026-10-08T13:00:16.136Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -620,8 +620,28 @@
         "Gaëlle",
         "Fanny"
       ],
-      "metiers": [],
-      "recherches": []
+      "metiers": [
+        "Analyse et stratégie",
+        "Carrière et business coach",
+        "Coach et formatrice",
+        "Conseil en gestion de patrimoine",
+        "Consultante organisation et processus",
+        "Structuration d’entreprise aide dirigeant"
+      ],
+      "recherches": [
+        "Architecte",
+        "Assistante externalisée",
+        "Avocate droit des affaires et fiscaliste",
+        "Community Manager",
+        "DAF externalisée",
+        "IA et automatisation",
+        "Graphiste",
+        "Notaire",
+        "Photographe",
+        "RH externalisée",
+        "SEA/O – gestion marketing digital",
+        "Thérapeute"
+      ]
     }
   ]
 }
