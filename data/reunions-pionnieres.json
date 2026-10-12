@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-12T07:00:13.685Z",
+  "genere_le": "2026-10-12T13:00:10.597Z",
   "reunions": [
     {
       "debut": "2026-10-16T09:00:00.000Z",
@@ -88,18 +88,6 @@
   ],
   "invitees": [
     {
-      "debut": "2026-10-12T09:00:00.000Z",
-      "fin": "2026-10-12T10:30:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-d90823",
-      "cercle": "Quimper"
-    },
-    {
-      "debut": "2026-10-12T10:00:00.000Z",
-      "fin": "2026-10-12T12:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/cercle-digital-1-8d2af3-1a55f1-1c9860-70a06a",
-      "cercle": "Synergia"
-    },
-    {
       "debut": "2026-10-22T09:30:00.000Z",
       "fin": "2026-10-22T11:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-bae9d0",
@@ -157,6 +145,18 @@
       "debut": "2026-12-31T10:30:00.000Z",
       "fin": "2026-12-31T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-d16531",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2027-01-14T10:30:00.000Z",
+      "fin": "2027-01-14T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-d24da1",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2027-01-28T10:30:00.000Z",
+      "fin": "2027-01-28T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-8a2915",
       "cercle": "Meaux"
     }
   ]
