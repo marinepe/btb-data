@@ -1,23 +1,6 @@
 {
-  "genere_le": "2026-10-13T09:00:31.740Z",
+  "genere_le": "2026-10-13T10:01:05.404Z",
   "cercles": [
-    {
-      "nom": "Grenoble",
-      "court": "Grenoble",
-      "titre": "Cercle de Grenoble",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "38",
-      "depNom": "Isère",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Grenoble",
-      "lieu": "Isère (38) · Grenoble",
-      "lat": 45.1842,
-      "lon": 5.7155,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
     {
       "nom": "Lyon",
       "court": "Lyon",
@@ -134,23 +117,6 @@
       "recherches": []
     },
     {
-      "nom": "Vannes",
-      "court": "Vannes",
-      "titre": "Cercle de Vannes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "56",
-      "depNom": "Morbihan",
-      "region": "Bretagne",
-      "villes": "Vannes",
-      "lieu": "Morbihan (56) · Vannes",
-      "lat": 47.6577,
-      "lon": -2.7485,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Reims",
       "court": "Reims",
       "titre": "Cercle de Reims",
@@ -237,10 +203,10 @@
       "dep": "78",
       "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "Montfort-l'Amaury",
-      "lieu": "Yvelines (78) · Montfort-l'Amaury",
-      "lat": 48.7717,
-      "lon": 1.8081,
+      "villes": "",
+      "lieu": "Yvelines (78)",
+      "lat": 48.815,
+      "lon": 1.842,
       "boosteuses": [
         "Astrid"
       ],
@@ -290,23 +256,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
-      "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Versailles",
       "court": "Versailles",
       "titre": "Cercle de Versailles",
@@ -319,23 +268,6 @@
       "lieu": "Yvelines (78) · Versailles",
       "lat": 48.8039,
       "lon": 2.1191,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Rouen",
-      "court": "Rouen",
-      "titre": "Cercle de Rouen",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "76",
-      "depNom": "Seine-Maritime",
-      "region": "Normandie",
-      "villes": "Rouen",
-      "lieu": "Seine-Maritime (76) · Rouen",
-      "lat": 49.4412,
-      "lon": 1.0912,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -438,23 +370,6 @@
       "lieu": "Hérault (34) · Montpellier",
       "lat": 43.61,
       "lon": 3.8742,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Toulouse",
-      "court": "Toulouse",
-      "titre": "Cercle de Toulouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "31",
-      "depNom": "Haute-Garonne",
-      "region": "Occitanie",
-      "villes": "Toulouse",
-      "lieu": "Haute-Garonne (31) · Toulouse",
-      "lat": 43.6007,
-      "lon": 1.4328,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
