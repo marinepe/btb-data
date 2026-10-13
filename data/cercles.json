@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-13T16:01:25.279Z",
+  "genere_le": "2026-10-13T17:00:51.980Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -48,6 +48,23 @@
       "lieu": "Loire (42) · Roanne",
       "lat": 46.0443,
       "lon": 4.0797,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Etienne",
+      "court": "Saint-Etienne",
+      "titre": "Cercle de Saint-Etienne",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "42",
+      "depNom": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Saint-Étienne",
+      "lieu": "Loire (42) · Saint-Étienne",
+      "lat": 45.4241,
+      "lon": 4.3665,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -113,6 +130,23 @@
       "boosteuses": [
         "Marie"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Vannes",
+      "court": "Vannes",
+      "titre": "Cercle de Vannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "56",
+      "depNom": "Morbihan",
+      "region": "Bretagne",
+      "villes": "Vannes",
+      "lieu": "Morbihan (56) · Vannes",
+      "lat": 47.6577,
+      "lon": -2.7485,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -409,6 +443,23 @@
       "recherches": []
     },
     {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -457,6 +508,23 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nantes",
+      "court": "Nantes",
+      "titre": "Cercle de Nantes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Nantes",
+      "lieu": "Loire-Atlantique (44) · Nantes",
+      "lat": 47.2382,
+      "lon": -1.5603,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
