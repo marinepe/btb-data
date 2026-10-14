@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-14T11:00:50.581Z",
+  "genere_le": "2026-10-14T12:01:37.536Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -19,57 +19,6 @@
       "recherches": []
     },
     {
-      "nom": "Lyon",
-      "court": "Lyon",
-      "titre": "Cercle de Lyon",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "69",
-      "depNom": "Rhône",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Lyon",
-      "lieu": "Rhône (69) · Lyon",
-      "lat": 45.758,
-      "lon": 4.8351,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Etienne",
-      "court": "Saint-Etienne",
-      "titre": "Cercle de Saint-Etienne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Saint-Étienne",
-      "lieu": "Loire (42) · Saint-Étienne",
-      "lat": 45.4241,
-      "lon": 4.3665,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Côte d’Emeraude",
       "court": "Côte d’Emeraude",
       "titre": "Cercle de la Côte d'Émeraude",
@@ -78,10 +27,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -168,23 +117,6 @@
       "recherches": []
     },
     {
-      "nom": "Strasbourg",
-      "court": "Strasbourg",
-      "titre": "Cercle de Strasbourg",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "67",
-      "depNom": "Bas-Rhin",
-      "region": "Grand Est",
-      "villes": "Strasbourg",
-      "lieu": "Bas-Rhin (67) · Strasbourg",
-      "lat": 48.5691,
-      "lon": 7.7621,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Lille",
       "court": "Lille",
       "titre": "Cercle de Lille",
@@ -237,10 +169,10 @@
       "dep": "78",
       "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "Montfort-l'Amaury",
-      "lieu": "Yvelines (78) · Montfort-l'Amaury",
-      "lat": 48.7717,
-      "lon": 1.8081,
+      "villes": "",
+      "lieu": "Yvelines (78)",
+      "lat": 48.815,
+      "lon": 1.842,
       "boosteuses": [
         "Astrid"
       ],
@@ -275,10 +207,10 @@
       "dep": "91",
       "depNom": "Essonne",
       "region": "Île-de-France",
-      "villes": "Ris-Orangis",
-      "lieu": "Essonne (91) · Ris-Orangis",
-      "lat": 48.6457,
-      "lon": 2.4104,
+      "villes": "",
+      "lieu": "Essonne (91)",
+      "lat": 48.522,
+      "lon": 2.243,
       "boosteuses": [
         "Hanan"
       ],
@@ -349,10 +281,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Agen",
-      "lieu": "Lot-et-Garonne (47) · Agen",
-      "lat": 44.201,
-      "lon": 0.6302,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Margot"
       ],
@@ -409,23 +341,6 @@
       "recherches": []
     },
     {
-      "nom": "Bordeaux",
-      "court": "Bordeaux",
-      "titre": "Cercle de Bordeaux",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "33",
-      "depNom": "Gironde",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Bordeaux",
-      "lieu": "Gironde (33) · Bordeaux",
-      "lat": 44.8624,
-      "lon": -0.5848,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Montpellier",
       "court": "Montpellier",
       "titre": "Cercle de Montpellier",
@@ -438,23 +353,6 @@
       "lieu": "Hérault (34) · Montpellier",
       "lat": 43.61,
       "lon": 3.8742,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Toulouse",
-      "court": "Toulouse",
-      "titre": "Cercle de Toulouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "31",
-      "depNom": "Haute-Garonne",
-      "region": "Occitanie",
-      "villes": "Toulouse",
-      "lieu": "Haute-Garonne (31) · Toulouse",
-      "lat": 43.6007,
-      "lon": 1.4328,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
