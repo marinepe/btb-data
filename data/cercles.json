@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-14T10:02:05.707Z",
+  "genere_le": "2026-10-14T11:00:50.581Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -110,6 +110,25 @@
       "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "boosteuses": [
+        "Marie"
       ],
       "metiers": [],
       "recherches": []
@@ -237,10 +256,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -356,10 +375,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -449,10 +468,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
@@ -506,6 +525,23 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.2382,
       "lon": -1.5603,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
