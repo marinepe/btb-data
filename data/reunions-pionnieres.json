@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-15T10:00:10.534Z",
+  "genere_le": "2026-10-15T13:00:10.636Z",
   "reunions": [
     {
       "debut": "2026-10-16T09:00:00.000Z",
@@ -52,11 +52,6 @@
   ],
   "experiences": [
     {
-      "debut": "2026-10-15T10:30:00.000Z",
-      "fin": "2026-10-15T12:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27-84bfa7"
-    },
-    {
       "debut": "2026-10-22T07:30:00.000Z",
       "fin": "2026-10-22T09:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101"
@@ -80,6 +75,11 @@
       "debut": "2026-11-20T08:30:00.000Z",
       "fin": "2026-11-20T10:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101-60d318"
+    },
+    {
+      "debut": "2026-11-24T11:30:00.000Z",
+      "fin": "2026-11-24T13:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27-49d761-d16f4f"
     }
   ],
   "invitees": [
