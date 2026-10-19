@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-19T18:00:27.902Z",
+  "genere_le": "2026-10-19T19:01:15.071Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -275,10 +275,10 @@
       "dep": "91",
       "depNom": "Essonne",
       "region": "Île-de-France",
-      "villes": "Ris-Orangis",
-      "lieu": "Essonne (91) · Ris-Orangis",
-      "lat": 48.6457,
-      "lon": 2.4104,
+      "villes": "",
+      "lieu": "Essonne (91)",
+      "lat": 48.522,
+      "lon": 2.243,
       "boosteuses": [
         "Hanan"
       ],
@@ -375,10 +375,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Villeneuve-sur-Lot",
-      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -389,23 +389,6 @@
         "Agriculturice",
         "Société de rénovation"
       ],
-      "recherches": []
-    },
-    {
-      "nom": "Biarritz",
-      "court": "Biarritz",
-      "titre": "Cercle de Biarritz",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "64",
-      "depNom": "Pyrénées-Atlantiques",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Biarritz",
-      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
-      "lat": 43.4709,
-      "lon": -1.5557,
-      "boosteuses": [],
-      "metiers": [],
       "recherches": []
     },
     {
@@ -525,23 +508,6 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.2382,
       "lon": -1.5603,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Marseille",
-      "court": "Marseille",
-      "titre": "Cercle de Marseille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "13",
-      "depNom": "Bouches-du-Rhône",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Marseille",
-      "lieu": "Bouches-du-Rhône (13) · Marseille",
-      "lat": 43.2803,
-      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
