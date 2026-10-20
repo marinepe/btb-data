@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-20T12:01:03.373Z",
+  "genere_le": "2026-10-20T13:01:46.676Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -31,23 +31,6 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -104,49 +87,13 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "Quimper",
-      "lieu": "Finistère (29) · Quimper",
-      "lat": 47.9982,
-      "lon": -4.0972,
+      "villes": "",
+      "lieu": "Finistère (29)",
+      "lat": 48.261,
+      "lon": -4.06,
       "boosteuses": [
         "Gaëlle"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Morlaix",
-      "court": "Morlaix",
-      "titre": "Cercle de Morlaix",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "29",
-      "depNom": "Finistère",
-      "region": "Bretagne",
-      "villes": "Morlaix",
-      "lieu": "Finistère (29) · Morlaix",
-      "lat": 48.5971,
-      "lon": -3.8215,
-      "boosteuses": [
-        "Marie"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Vannes",
-      "court": "Vannes",
-      "titre": "Cercle de Vannes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "56",
-      "depNom": "Morbihan",
-      "region": "Bretagne",
-      "villes": "Vannes",
-      "lieu": "Morbihan (56) · Vannes",
-      "lat": 47.6577,
-      "lon": -2.7485,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -163,23 +110,6 @@
       "lieu": "Marne (51) · Reims",
       "lat": 49.2535,
       "lon": 4.0551,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Strasbourg",
-      "court": "Strasbourg",
-      "titre": "Cercle de Strasbourg",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "67",
-      "depNom": "Bas-Rhin",
-      "region": "Grand Est",
-      "villes": "Strasbourg",
-      "lieu": "Bas-Rhin (67) · Strasbourg",
-      "lat": 48.5691,
-      "lon": 7.7621,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -287,23 +217,6 @@
         "Community Manager",
         "Consultante RSE"
       ],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
-      "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
-      "boosteuses": [],
-      "metiers": [],
       "recherches": []
     },
     {
@@ -479,23 +392,6 @@
       "recherches": []
     },
     {
-      "nom": "Angers",
-      "court": "Angers",
-      "titre": "Cercle d'Angers",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "49",
-      "depNom": "Maine-et-Loire",
-      "region": "Pays de la Loire",
-      "villes": "Angers",
-      "lieu": "Maine-et-Loire (49) · Angers",
-      "lat": 47.4819,
-      "lon": -0.5629,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Laval",
       "court": "Laval",
       "titre": "Cercle de Laval",
@@ -504,10 +400,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "Laval",
-      "lieu": "Mayenne (53) · Laval",
-      "lat": 48.0578,
-      "lon": -0.7692,
+      "villes": "",
+      "lieu": "Mayenne (53)",
+      "lat": 48.147,
+      "lon": -0.657,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
