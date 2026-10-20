@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-20T16:01:28.758Z",
+  "genere_le": "2026-10-20T17:00:24.446Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -237,10 +237,10 @@
       "dep": "78",
       "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Yvelines (78)",
-      "lat": 48.815,
-      "lon": 1.842,
+      "villes": "Montfort-l'Amaury",
+      "lieu": "Yvelines (78) · Montfort-l'Amaury",
+      "lat": 48.7717,
+      "lon": 1.8081,
       "boosteuses": [
         "Astrid"
       ],
@@ -468,10 +468,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
@@ -525,6 +525,23 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.2382,
       "lon": -1.5603,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
