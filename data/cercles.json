@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-21T04:00:26.839Z",
+  "genere_le": "2026-10-21T05:00:22.616Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -31,23 +31,6 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -151,23 +134,6 @@
       "recherches": []
     },
     {
-      "nom": "Reims",
-      "court": "Reims",
-      "titre": "Cercle de Reims",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "51",
-      "depNom": "Marne",
-      "region": "Grand Est",
-      "villes": "Reims",
-      "lieu": "Marne (51) · Reims",
-      "lat": 49.2535,
-      "lon": 4.0551,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Strasbourg",
       "court": "Strasbourg",
       "titre": "Cercle de Strasbourg",
@@ -180,6 +146,23 @@
       "lieu": "Bas-Rhin (67) · Strasbourg",
       "lat": 48.5691,
       "lon": 7.7621,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lille",
+      "court": "Lille",
+      "titre": "Cercle de Lille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "59",
+      "depNom": "Nord",
+      "region": "Hauts-de-France",
+      "villes": "Lille",
+      "lieu": "Nord (59) · Lille",
+      "lat": 50.6311,
+      "lon": 3.0468,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
