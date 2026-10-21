@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-21T03:00:19.416Z",
+  "genere_le": "2026-10-21T04:00:26.839Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -180,23 +180,6 @@
       "lieu": "Bas-Rhin (67) · Strasbourg",
       "lat": 48.5691,
       "lon": 7.7621,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Lille",
-      "court": "Lille",
-      "titre": "Cercle de Lille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "59",
-      "depNom": "Nord",
-      "region": "Hauts-de-France",
-      "villes": "Lille",
-      "lieu": "Nord (59) · Lille",
-      "lat": 50.6311,
-      "lon": 3.0468,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
