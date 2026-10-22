@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-22T15:00:43.320Z",
+  "genere_le": "2026-10-22T16:00:46.735Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -130,6 +130,23 @@
       "boosteuses": [
         "Marie"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Brieuc",
+      "court": "Saint-Brieuc",
+      "titre": "Cercle de Saint-Brieuc",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "22",
+      "depNom": "Côtes-d'Armor",
+      "region": "Bretagne",
+      "villes": "Saint-Brieuc",
+      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
+      "lat": 48.5108,
+      "lon": -2.7657,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -564,6 +581,46 @@
       "recherches": []
     },
     {
+      "nom": "Impulsion",
+      "court": "Impulsion",
+      "titre": "Cercle digital Impulsion",
+      "format": "distanciel",
+      "statut": "actif",
+      "dep": null,
+      "depNom": null,
+      "region": "En ligne",
+      "villes": "digital, en ligne, visio, a distance",
+      "lieu": "En visio · ouvert partout en France",
+      "lat": null,
+      "lon": null,
+      "boosteuses": [
+        "Gaëlle",
+        "Fanny"
+      ],
+      "metiers": [
+        "Analyse et stratégie",
+        "Carrière et business coach",
+        "Coach et formatrice",
+        "Conseil en gestion de patrimoine",
+        "Consultante organisation et processus",
+        "Structuration d’entreprise aide dirigeant"
+      ],
+      "recherches": [
+        "Architecte",
+        "Assistante externalisée",
+        "Avocate droit des affaires et fiscaliste",
+        "Community Manager",
+        "DAF externalisée",
+        "IA et automatisation",
+        "Graphiste",
+        "Notaire",
+        "Photographe",
+        "RH externalisée",
+        "SEA/O – gestion marketing digital",
+        "Thérapeute"
+      ]
+    },
+    {
       "nom": "Synergia",
       "court": "Synergia",
       "titre": "Cercle digital Synergia",
@@ -601,46 +658,6 @@
         "DAF externalisée",
         "Agence évènementielle",
         "Agence de communication"
-      ]
-    },
-    {
-      "nom": "Digital 2",
-      "court": "Digital 2",
-      "titre": "Cercle digital 2",
-      "format": "distanciel",
-      "statut": "lancement",
-      "dep": null,
-      "depNom": null,
-      "region": "En ligne",
-      "villes": "digital, en ligne, visio, a distance",
-      "lieu": "En visio · ouvert partout en France",
-      "lat": null,
-      "lon": null,
-      "boosteuses": [
-        "Gaëlle",
-        "Fanny"
-      ],
-      "metiers": [
-        "Analyse et stratégie",
-        "Carrière et business coach",
-        "Coach et formatrice",
-        "Conseil en gestion de patrimoine",
-        "Consultante organisation et processus",
-        "Structuration d’entreprise aide dirigeant"
-      ],
-      "recherches": [
-        "Architecte",
-        "Assistante externalisée",
-        "Avocate droit des affaires et fiscaliste",
-        "Community Manager",
-        "DAF externalisée",
-        "IA et automatisation",
-        "Graphiste",
-        "Notaire",
-        "Photographe",
-        "RH externalisée",
-        "SEA/O – gestion marketing digital",
-        "Thérapeute"
       ]
     }
   ]
