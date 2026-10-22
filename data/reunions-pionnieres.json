@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-22T07:00:10.695Z",
+  "genere_le": "2026-10-22T10:00:10.564Z",
   "reunions": [
     {
       "debut": "2026-10-27T14:00:00.000Z",
@@ -47,11 +47,6 @@
   ],
   "experiences": [
     {
-      "debut": "2026-10-22T07:30:00.000Z",
-      "fin": "2026-10-22T09:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101"
-    },
-    {
       "debut": "2026-10-27T11:30:00.000Z",
       "fin": "2026-10-27T13:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27"
@@ -75,15 +70,14 @@
       "debut": "2026-11-24T11:30:00.000Z",
       "fin": "2026-11-24T13:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27-49d761-d16f4f"
+    },
+    {
+      "debut": "2026-12-11T08:30:00.000Z",
+      "fin": "2026-12-11T10:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101-60d318-295def-59b969"
     }
   ],
   "invitees": [
-    {
-      "debut": "2026-10-22T09:30:00.000Z",
-      "fin": "2026-10-22T11:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-bae9d0",
-      "cercle": "Meaux"
-    },
     {
       "debut": "2026-10-26T10:00:00.000Z",
       "fin": "2026-10-26T11:30:00.000Z",
@@ -148,6 +142,12 @@
       "debut": "2027-01-14T10:30:00.000Z",
       "fin": "2027-01-14T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-d24da1",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2027-01-28T10:30:00.000Z",
+      "fin": "2027-01-28T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-8a2915",
       "cercle": "Meaux"
     }
   ]
