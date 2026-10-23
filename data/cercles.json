@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-23T10:00:30.716Z",
+  "genere_le": "2026-10-23T11:00:18.456Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -322,6 +322,23 @@
       "boosteuses": [
         "Apolline"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Poissy",
+      "court": "Poissy",
+      "titre": "Cercle de Poissy",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Poissy",
+      "lieu": "Yvelines (78) · Poissy",
+      "lat": 48.9241,
+      "lon": 2.025,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
