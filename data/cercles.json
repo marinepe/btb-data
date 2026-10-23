@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-23T08:00:48.819Z",
+  "genere_le": "2026-10-23T08:44:12.603Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -304,6 +304,25 @@
         "Community Manager",
         "Consultante RSE"
       ],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
+      ],
+      "metiers": [],
       "recherches": []
     },
     {
