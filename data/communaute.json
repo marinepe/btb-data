@@ -1,10 +1,10 @@
 {
-  "genere_le": "2026-10-24T10:01:00.541Z",
+  "genere_le": "2026-10-24T16:01:02.199Z",
   "semaine": {
-    "publications": 12,
-    "commentaires": 27,
+    "publications": 11,
+    "commentaires": 26,
     "membres_actives": 18,
-    "reactions": 44,
+    "reactions": 34,
     "espaces_actifs": [
       "Présentations",
       "Soutien visibilité",
@@ -15,7 +15,7 @@
     "publications": 54,
     "commentaires": 115,
     "membres_actives": 35,
-    "reactions": 249,
+    "reactions": 250,
     "espaces_actifs": [
       "Soutien visibilité",
       "Vie du réseau",
@@ -26,5 +26,5 @@
   "contacts_total": 502,
   "publications_total": 348,
   "commentaires_total": 787,
-  "evenements_a_venir_30j": 30
+  "evenements_a_venir_30j": 32
 }
