@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-24T12:03:09.604Z",
+  "genere_le": "2026-10-24T13:00:57.159Z",
   "cercles": [
     {
       "nom": "Côte d’Emeraude",
@@ -43,6 +43,23 @@
       "boosteuses": [
         "Gaëlle"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Brieuc",
+      "court": "Saint-Brieuc",
+      "titre": "Cercle de Saint-Brieuc",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "22",
+      "depNom": "Côtes-d'Armor",
+      "region": "Bretagne",
+      "villes": "Saint-Brieuc",
+      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
+      "lat": 48.5108,
+      "lon": -2.7657,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -217,23 +234,6 @@
       "lieu": "Mayenne (53)",
       "lat": 48.147,
       "lon": -0.657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Marseille",
-      "court": "Marseille",
-      "titre": "Cercle de Marseille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "13",
-      "depNom": "Bouches-du-Rhône",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Marseille",
-      "lieu": "Bouches-du-Rhône (13) · Marseille",
-      "lat": 43.2803,
-      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
