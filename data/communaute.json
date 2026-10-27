@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-27T05:01:01.008Z",
+  "genere_le": "2026-10-27T11:01:01.190Z",
   "semaine": {
-    "publications": 11,
-    "commentaires": 23,
-    "membres_actives": 18,
-    "reactions": 37,
+    "publications": 8,
+    "commentaires": 21,
+    "membres_actives": 16,
+    "reactions": 25,
     "espaces_actifs": [
       "Soutien visibilité",
       "Présentations",
-      "Coup de Boost"
+      "Idées et partages autour des animations"
     ]
   },
   "mois": {
@@ -22,8 +22,8 @@
       "Coup de Boost"
     ]
   },
-  "membres_total": 507,
-  "contacts_total": 507,
+  "membres_total": 508,
+  "contacts_total": 508,
   "publications_total": 348,
   "commentaires_total": 789,
   "evenements_a_venir_30j": 31
