@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-27T09:01:18.057Z",
+  "genere_le": "2026-10-27T10:01:49.833Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -104,10 +104,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
-      "lat": 48.261,
-      "lon": -4.06,
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -402,10 +402,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
       "boosteuses": [
         "Margot"
       ],
@@ -428,10 +428,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -442,6 +442,23 @@
         "Agriculturice",
         "Société de rénovation"
       ],
+      "recherches": []
+    },
+    {
+      "nom": "Biarritz",
+      "court": "Biarritz",
+      "titre": "Cercle de Biarritz",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "64",
+      "depNom": "Pyrénées-Atlantiques",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Biarritz",
+      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
+      "lat": 43.4709,
+      "lon": -1.5557,
+      "boosteuses": [],
+      "metiers": [],
       "recherches": []
     },
     {
