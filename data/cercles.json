@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-27T20:00:20.232Z",
+  "genere_le": "2026-10-27T21:01:07.190Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -78,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -419,10 +419,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Agen",
-      "lieu": "Lot-et-Garonne (47) · Agen",
-      "lat": 44.201,
-      "lon": 0.6302,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Margot"
       ],
