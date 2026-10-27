@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-27T13:00:35.233Z",
+  "genere_le": "2026-10-27T14:01:37.524Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -163,6 +163,23 @@
       "lieu": "Morbihan (56) · Vannes",
       "lat": 47.6577,
       "lon": -2.7485,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Mulhouse",
+      "court": "Mulhouse",
+      "titre": "Cercle de Mulhouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "68",
+      "depNom": "Haut-Rhin",
+      "region": "Grand Est",
+      "villes": "Mulhouse",
+      "lieu": "Haut-Rhin (68) · Mulhouse",
+      "lat": 47.7526,
+      "lon": 7.3255,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -578,6 +595,23 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.2382,
       "lon": -1.5603,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Cannes",
+      "court": "Cannes",
+      "titre": "Cercle de Cannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Cannes",
+      "lieu": "Alpes-Maritimes (06) · Cannes",
+      "lat": 43.5454,
+      "lon": 7.0152,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
