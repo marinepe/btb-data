@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-27T15:01:23.958Z",
+  "genere_le": "2026-10-27T16:00:40.442Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -104,10 +104,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
-      "lat": 48.261,
-      "lon": -4.06,
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -271,10 +271,10 @@
       "dep": "78",
       "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Yvelines (78)",
-      "lat": 48.815,
-      "lon": 1.842,
+      "villes": "Montfort-l'Amaury",
+      "lieu": "Yvelines (78) · Montfort-l'Amaury",
+      "lat": 48.7717,
+      "lon": 1.8081,
       "boosteuses": [
         "Astrid"
       ],
@@ -290,10 +290,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -513,6 +513,23 @@
       "recherches": []
     },
     {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -521,10 +538,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
