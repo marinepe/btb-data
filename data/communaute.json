@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-28T11:01:01.257Z",
+  "genere_le": "2026-10-28T17:01:02.801Z",
   "semaine": {
     "publications": 6,
     "commentaires": 14,
@@ -12,19 +12,19 @@
     ]
   },
   "mois": {
-    "publications": 51,
+    "publications": 50,
     "commentaires": 111,
     "membres_actives": 34,
-    "reactions": 241,
+    "reactions": 239,
     "espaces_actifs": [
       "Soutien visibilité",
       "Coup de Boost",
       "Vie du réseau"
     ]
   },
-  "membres_total": 511,
-  "contacts_total": 511,
+  "membres_total": 513,
+  "contacts_total": 513,
   "publications_total": 348,
   "commentaires_total": 789,
-  "evenements_a_venir_30j": 30
+  "evenements_a_venir_30j": 29
 }
