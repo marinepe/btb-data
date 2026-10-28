@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-28T13:00:40.832Z",
+  "genere_le": "2026-10-28T14:01:06.639Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -14,23 +14,6 @@
       "lieu": "Isère (38) · Grenoble",
       "lat": 45.1842,
       "lon": 5.7155,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Lyon",
-      "court": "Lyon",
-      "titre": "Cercle de Lyon",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "69",
-      "depNom": "Rhône",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Lyon",
-      "lieu": "Rhône (69) · Lyon",
-      "lat": 45.758,
-      "lon": 4.8351,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -78,10 +61,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -445,10 +428,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Villeneuve-sur-Lot",
-      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -574,10 +557,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "Laval",
-      "lieu": "Mayenne (53) · Laval",
-      "lat": 48.0578,
-      "lon": -0.7692,
+      "villes": "",
+      "lieu": "Mayenne (53)",
+      "lat": 48.147,
+      "lon": -0.657,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
