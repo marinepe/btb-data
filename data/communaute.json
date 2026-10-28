@@ -1,29 +1,29 @@
 {
-  "genere_le": "2026-10-28T05:01:01.886Z",
+  "genere_le": "2026-10-28T11:01:01.257Z",
   "semaine": {
-    "publications": 7,
-    "commentaires": 19,
-    "membres_actives": 15,
-    "reactions": 22,
+    "publications": 6,
+    "commentaires": 14,
+    "membres_actives": 11,
+    "reactions": 20,
     "espaces_actifs": [
       "Soutien visibilité",
       "Présentations",
-      "Idées et partages autour des animations"
+      "Vie du réseau"
     ]
   },
   "mois": {
-    "publications": 52,
-    "commentaires": 114,
+    "publications": 51,
+    "commentaires": 111,
     "membres_actives": 34,
-    "reactions": 245,
+    "reactions": 241,
     "espaces_actifs": [
       "Soutien visibilité",
-      "Duos",
-      "Coup de Boost"
+      "Coup de Boost",
+      "Vie du réseau"
     ]
   },
-  "membres_total": 510,
-  "contacts_total": 510,
+  "membres_total": 511,
+  "contacts_total": 511,
   "publications_total": 348,
   "commentaires_total": 789,
   "evenements_a_venir_30j": 30
