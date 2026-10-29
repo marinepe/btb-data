@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-29T15:00:46.037Z",
+  "genere_le": "2026-10-29T16:00:34.343Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -263,6 +263,25 @@
       "recherches": []
     },
     {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Montfort-l'Amaury",
       "court": "Montfort-l'Amaury",
       "titre": "Cercle de Montfort-l'Amaury",
@@ -339,23 +358,6 @@
       "boosteuses": [
         "Apolline"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Poissy",
-      "court": "Poissy",
-      "titre": "Cercle de Poissy",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Poissy",
-      "lieu": "Yvelines (78) · Poissy",
-      "lat": 48.9241,
-      "lon": 2.025,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
