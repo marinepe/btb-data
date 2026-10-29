@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-29T16:00:34.343Z",
+  "genere_le": "2026-10-29T17:00:16.025Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -282,25 +282,6 @@
       "recherches": []
     },
     {
-      "nom": "Montfort-l'Amaury",
-      "court": "Montfort-l'Amaury",
-      "titre": "Cercle de Montfort-l'Amaury",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Montfort-l'Amaury",
-      "lieu": "Yvelines (78) · Montfort-l'Amaury",
-      "lat": 48.7717,
-      "lon": 1.8081,
-      "boosteuses": [
-        "Astrid"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Paris",
       "court": "Paris",
       "titre": "Cercle de Paris",
@@ -317,29 +298,6 @@
         "Chantal"
       ],
       "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Ris-Orangis",
-      "court": "Ris-Orangis",
-      "titre": "Cercle de Ris-Orangis",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "91",
-      "depNom": "Essonne",
-      "region": "Île-de-France",
-      "villes": "Ris-Orangis",
-      "lieu": "Essonne (91) · Ris-Orangis",
-      "lat": 48.6457,
-      "lon": 2.4104,
-      "boosteuses": [
-        "Hanan"
-      ],
-      "metiers": [
-        "Carrière et business coach",
-        "Community Manager",
-        "Consultante RSE"
-      ],
       "recherches": []
     },
     {
