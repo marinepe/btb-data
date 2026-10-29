@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-29T11:01:25.030Z",
+  "genere_le": "2026-10-29T12:00:44.213Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -31,6 +31,23 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Roanne",
+      "court": "Roanne",
+      "titre": "Cercle de Roanne",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "42",
+      "depNom": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Roanne",
+      "lieu": "Loire (42) · Roanne",
+      "lat": 46.0443,
+      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -117,6 +134,23 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Brieuc",
+      "court": "Saint-Brieuc",
+      "titre": "Cercle de Saint-Brieuc",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "22",
+      "depNom": "Côtes-d'Armor",
+      "region": "Bretagne",
+      "villes": "Saint-Brieuc",
+      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
+      "lat": 48.5108,
+      "lon": -2.7657,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Vannes",
       "court": "Vannes",
       "titre": "Cercle de Vannes",
@@ -163,6 +197,23 @@
       "lieu": "Marne (51) · Reims",
       "lat": 49.2535,
       "lon": 4.0551,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Strasbourg",
+      "court": "Strasbourg",
+      "titre": "Cercle de Strasbourg",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "67",
+      "depNom": "Bas-Rhin",
+      "region": "Grand Est",
+      "villes": "Strasbourg",
+      "lieu": "Bas-Rhin (67) · Strasbourg",
+      "lat": 48.5691,
+      "lon": 7.7621,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -220,10 +271,10 @@
       "dep": "78",
       "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Yvelines (78)",
-      "lat": 48.815,
-      "lon": 1.842,
+      "villes": "Montfort-l'Amaury",
+      "lieu": "Yvelines (78) · Montfort-l'Amaury",
+      "lat": 48.7717,
+      "lon": 1.8081,
       "boosteuses": [
         "Astrid"
       ],
@@ -304,6 +355,23 @@
       "lieu": "Yvelines (78) · Poissy",
       "lat": 48.9241,
       "lon": 2.025,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Maur",
+      "court": "Saint-Maur",
+      "titre": "Cercle de Saint-Maur",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "94",
+      "depNom": "Val-de-Marne",
+      "region": "Île-de-France",
+      "villes": "Saint-Maur-des-Fossés",
+      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
+      "lat": 48.7999,
+      "lon": 2.4921,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -391,6 +459,40 @@
         "Agriculturice",
         "Société de rénovation"
       ],
+      "recherches": []
+    },
+    {
+      "nom": "Biarritz",
+      "court": "Biarritz",
+      "titre": "Cercle de Biarritz",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "64",
+      "depNom": "Pyrénées-Atlantiques",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Biarritz",
+      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
+      "lat": 43.4709,
+      "lon": -1.5557,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
       "recherches": []
     },
     {
