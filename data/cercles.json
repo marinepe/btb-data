@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-29T10:01:23.922Z",
+  "genere_le": "2026-10-29T11:01:25.030Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -36,18 +36,18 @@
       "recherches": []
     },
     {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
+      "nom": "Saint-Etienne",
+      "court": "Saint-Etienne",
+      "titre": "Cercle de Saint-Etienne",
       "format": "presentiel",
       "statut": "devenir",
       "dep": "42",
       "depNom": "Loire",
       "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
+      "villes": "Saint-Étienne",
+      "lieu": "Loire (42) · Saint-Étienne",
+      "lat": 45.4241,
+      "lon": 4.3665,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -117,23 +117,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Vannes",
       "court": "Vannes",
       "titre": "Cercle de Vannes",
@@ -180,23 +163,6 @@
       "lieu": "Marne (51) · Reims",
       "lat": 49.2535,
       "lon": 4.0551,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Strasbourg",
-      "court": "Strasbourg",
-      "titre": "Cercle de Strasbourg",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "67",
-      "depNom": "Bas-Rhin",
-      "region": "Grand Est",
-      "villes": "Strasbourg",
-      "lieu": "Bas-Rhin (67) · Strasbourg",
-      "lat": 48.5691,
-      "lon": 7.7621,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -254,10 +220,10 @@
       "dep": "78",
       "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "Montfort-l'Amaury",
-      "lieu": "Yvelines (78) · Montfort-l'Amaury",
-      "lat": 48.7717,
-      "lon": 1.8081,
+      "villes": "",
+      "lieu": "Yvelines (78)",
+      "lat": 48.815,
+      "lon": 1.842,
       "boosteuses": [
         "Astrid"
       ],
@@ -273,10 +239,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -307,6 +273,25 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Poissy",
       "court": "Poissy",
       "titre": "Cercle de Poissy",
@@ -324,18 +309,18 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
+      "nom": "Versailles",
+      "court": "Versailles",
+      "titre": "Cercle de Versailles",
       "format": "presentiel",
       "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
+      "dep": "78",
+      "depNom": "Yvelines",
       "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
+      "villes": "Versailles",
+      "lieu": "Yvelines (78) · Versailles",
+      "lat": 48.8039,
+      "lon": 2.1191,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -392,10 +377,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -406,23 +391,6 @@
         "Agriculturice",
         "Société de rénovation"
       ],
-      "recherches": []
-    },
-    {
-      "nom": "Bordeaux",
-      "court": "Bordeaux",
-      "titre": "Cercle de Bordeaux",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "33",
-      "depNom": "Gironde",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Bordeaux",
-      "lieu": "Gironde (33) · Bordeaux",
-      "lat": 44.8624,
-      "lon": -0.5848,
-      "boosteuses": [],
-      "metiers": [],
       "recherches": []
     },
     {
@@ -508,6 +476,40 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nantes",
+      "court": "Nantes",
+      "titre": "Cercle de Nantes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Nantes",
+      "lieu": "Loire-Atlantique (44) · Nantes",
+      "lat": 47.2382,
+      "lon": -1.5603,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Cannes",
+      "court": "Cannes",
+      "titre": "Cercle de Cannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Cannes",
+      "lieu": "Alpes-Maritimes (06) · Cannes",
+      "lat": 43.5454,
+      "lon": 7.0152,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
