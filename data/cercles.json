@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-10-30T22:01:11.031Z",
+  "genere_le": "2026-10-30T23:00:22.710Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -78,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Ille-et-Vilaine (35)",
-      "lat": 48.155,
-      "lon": -1.637,
+      "villes": "Saint-Malo",
+      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
+      "lat": 48.6465,
+      "lon": -2.0066,
       "boosteuses": [
         "Aurélie"
       ],
@@ -168,6 +168,23 @@
       "recherches": []
     },
     {
+      "nom": "Mulhouse",
+      "court": "Mulhouse",
+      "titre": "Cercle de Mulhouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "68",
+      "depNom": "Haut-Rhin",
+      "region": "Grand Est",
+      "villes": "Mulhouse",
+      "lieu": "Haut-Rhin (68) · Mulhouse",
+      "lat": 47.7526,
+      "lon": 7.3255,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Reims",
       "court": "Reims",
       "titre": "Cercle de Reims",
@@ -243,6 +260,25 @@
         "Coach et formatrice",
         "Courtier en crédit"
       ],
+      "recherches": []
+    },
+    {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
       "recherches": []
     },
     {
@@ -403,6 +439,23 @@
       "recherches": []
     },
     {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Montpellier",
       "court": "Montpellier",
       "titre": "Cercle de Montpellier",
@@ -456,6 +509,23 @@
       "recherches": []
     },
     {
+      "nom": "Angers",
+      "court": "Angers",
+      "titre": "Cercle d'Angers",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "49",
+      "depNom": "Maine-et-Loire",
+      "region": "Pays de la Loire",
+      "villes": "Angers",
+      "lieu": "Maine-et-Loire (49) · Angers",
+      "lat": 47.4819,
+      "lon": -0.5629,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Laval",
       "court": "Laval",
       "titre": "Cercle de Laval",
@@ -485,6 +555,23 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.2382,
       "lon": -1.5603,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Cannes",
+      "court": "Cannes",
+      "titre": "Cercle de Cannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Cannes",
+      "lieu": "Alpes-Maritimes (06) · Cannes",
+      "lat": 43.5454,
+      "lon": 7.0152,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
