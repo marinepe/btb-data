@@ -1,10 +1,10 @@
 {
-  "genere_le": "2026-10-31T05:01:01.063Z",
+  "genere_le": "2026-10-31T11:01:01.457Z",
   "semaine": {
     "publications": 3,
     "commentaires": 9,
     "membres_actives": 10,
-    "reactions": 8,
+    "reactions": 11,
     "espaces_actifs": [
       "Présentations",
       "Actus des cercles",
@@ -12,10 +12,10 @@
     ]
   },
   "mois": {
-    "publications": 44,
-    "commentaires": 108,
-    "membres_actives": 33,
-    "reactions": 214,
+    "publications": 42,
+    "commentaires": 103,
+    "membres_actives": 31,
+    "reactions": 210,
     "espaces_actifs": [
       "Soutien visibilité",
       "Vie du réseau",
