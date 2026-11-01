@@ -1,6 +1,40 @@
 {
-  "genere_le": "2026-11-01T17:01:27.872Z",
+  "genere_le": "2026-11-01T18:00:20.343Z",
   "cercles": [
+    {
+      "nom": "Grenoble",
+      "court": "Grenoble",
+      "titre": "Cercle de Grenoble",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "38",
+      "depNom": "Isère",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Grenoble",
+      "lieu": "Isère (38) · Grenoble",
+      "lat": 45.1842,
+      "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lyon",
+      "court": "Lyon",
+      "titre": "Cercle de Lyon",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "69",
+      "depNom": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Lyon",
+      "lieu": "Rhône (69) · Lyon",
+      "lat": 45.758,
+      "lon": 4.8351,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
     {
       "nom": "Roanne",
       "court": "Roanne",
@@ -229,6 +263,25 @@
       "recherches": []
     },
     {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Paris",
       "court": "Paris",
       "titre": "Cercle de Paris",
@@ -243,6 +296,25 @@
       "lon": 2.347,
       "boosteuses": [
         "Chantal"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
       ],
       "metiers": [],
       "recherches": []
@@ -333,10 +405,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -367,6 +439,23 @@
       "recherches": []
     },
     {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Montpellier",
       "court": "Montpellier",
       "titre": "Cercle de Montpellier",
@@ -379,6 +468,23 @@
       "lieu": "Hérault (34) · Montpellier",
       "lat": 43.61,
       "lon": 3.8742,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -403,6 +509,23 @@
       "recherches": []
     },
     {
+      "nom": "Angers",
+      "court": "Angers",
+      "titre": "Cercle d'Angers",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "49",
+      "depNom": "Maine-et-Loire",
+      "region": "Pays de la Loire",
+      "villes": "Angers",
+      "lieu": "Maine-et-Loire (49) · Angers",
+      "lat": 47.4819,
+      "lon": -0.5629,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Laval",
       "court": "Laval",
       "titre": "Cercle de Laval",
@@ -411,10 +534,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Mayenne (53)",
-      "lat": 48.147,
-      "lon": -0.657,
+      "villes": "Laval",
+      "lieu": "Mayenne (53) · Laval",
+      "lat": 48.0578,
+      "lon": -0.7692,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
