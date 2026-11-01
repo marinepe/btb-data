@@ -1,10 +1,10 @@
 {
-  "genere_le": "2026-11-01T11:01:00.635Z",
+  "genere_le": "2026-11-01T17:01:02.043Z",
   "semaine": {
     "publications": 4,
-    "commentaires": 9,
+    "commentaires": 12,
     "membres_actives": 11,
-    "reactions": 12,
+    "reactions": 13,
     "espaces_actifs": [
       "Présentations",
       "Actus des cercles",
@@ -12,8 +12,8 @@
     ]
   },
   "mois": {
-    "publications": 41,
-    "commentaires": 99,
+    "publications": 40,
+    "commentaires": 102,
     "membres_actives": 31,
     "reactions": 200,
     "espaces_actifs": [
@@ -25,6 +25,6 @@
   "membres_total": 519,
   "contacts_total": 519,
   "publications_total": 352,
-  "commentaires_total": 796,
+  "commentaires_total": 799,
   "evenements_a_venir_30j": 25
 }
