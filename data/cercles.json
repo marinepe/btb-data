@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-03T21:01:17.119Z",
+  "genere_le": "2026-11-03T22:00:18.376Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -14,6 +14,23 @@
       "lieu": "Isère (38) · Grenoble",
       "lat": 45.1842,
       "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lyon",
+      "court": "Lyon",
+      "titre": "Cercle de Lyon",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "69",
+      "depNom": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Lyon",
+      "lieu": "Rhône (69) · Lyon",
+      "lat": 45.758,
+      "lon": 4.8351,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -197,6 +214,23 @@
       "lieu": "Bas-Rhin (67) · Strasbourg",
       "lat": 48.5691,
       "lon": 7.7621,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lille",
+      "court": "Lille",
+      "titre": "Cercle de Lille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "59",
+      "depNom": "Nord",
+      "region": "Hauts-de-France",
+      "villes": "Lille",
+      "lieu": "Nord (59) · Lille",
+      "lat": 50.6311,
+      "lon": 3.0468,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -422,6 +456,23 @@
       "recherches": []
     },
     {
+      "nom": "Montpellier",
+      "court": "Montpellier",
+      "titre": "Cercle de Montpellier",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "34",
+      "depNom": "Hérault",
+      "region": "Occitanie",
+      "villes": "Montpellier",
+      "lieu": "Hérault (34) · Montpellier",
+      "lat": 43.61,
+      "lon": 3.8742,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Toulouse",
       "court": "Toulouse",
       "titre": "Cercle de Toulouse",
@@ -521,6 +572,23 @@
       "lieu": "Alpes-Maritimes (06) · Cannes",
       "lat": 43.5454,
       "lon": 7.0152,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
