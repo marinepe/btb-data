@@ -1,8 +1,8 @@
 {
-  "genere_le": "2026-11-03T17:01:00.920Z",
+  "genere_le": "2026-11-03T23:01:01.344Z",
   "semaine": {
     "publications": 8,
-    "commentaires": 35,
+    "commentaires": 36,
     "membres_actives": 18,
     "reactions": 28,
     "espaces_actifs": [
@@ -13,7 +13,7 @@
   },
   "mois": {
     "publications": 44,
-    "commentaires": 122,
+    "commentaires": 123,
     "membres_actives": 34,
     "reactions": 223,
     "espaces_actifs": [
@@ -22,9 +22,9 @@
       "Présentations"
     ]
   },
-  "membres_total": 530,
-  "contacts_total": 530,
+  "membres_total": 531,
+  "contacts_total": 531,
   "publications_total": 356,
-  "commentaires_total": 824,
+  "commentaires_total": 825,
   "evenements_a_venir_30j": 32
 }
