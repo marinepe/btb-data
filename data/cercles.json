@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-03T09:00:41.227Z",
+  "genere_le": "2026-11-03T10:01:28.511Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -104,10 +104,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "Quimper",
-      "lieu": "Finistère (29) · Quimper",
-      "lat": 47.9982,
-      "lon": -4.0972,
+      "villes": "",
+      "lieu": "Finistère (29)",
+      "lat": 48.261,
+      "lon": -4.06,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -134,40 +134,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Vannes",
-      "court": "Vannes",
-      "titre": "Cercle de Vannes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "56",
-      "depNom": "Morbihan",
-      "region": "Bretagne",
-      "villes": "Vannes",
-      "lieu": "Morbihan (56) · Vannes",
-      "lat": 47.6577,
-      "lon": -2.7485,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Mulhouse",
       "court": "Mulhouse",
       "titre": "Cercle de Mulhouse",
@@ -180,23 +146,6 @@
       "lieu": "Haut-Rhin (68) · Mulhouse",
       "lat": 47.7526,
       "lon": 7.3255,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Reims",
-      "court": "Reims",
-      "titre": "Cercle de Reims",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "51",
-      "depNom": "Marne",
-      "region": "Grand Est",
-      "villes": "Reims",
-      "lieu": "Marne (51) · Reims",
-      "lat": 49.2535,
-      "lon": 4.0551,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -297,42 +246,6 @@
       "boosteuses": [
         "Chantal"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Germain-en-Laye",
-      "court": "Saint-Germain-en-Laye",
-      "titre": "Cercle de Saint-Germain-en-Laye",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Saint-Germain-en-Laye",
-      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
-      "lat": 48.931,
-      "lon": 2.1052,
-      "boosteuses": [
-        "Apolline"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
-      "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -456,40 +369,6 @@
       "recherches": []
     },
     {
-      "nom": "Montpellier",
-      "court": "Montpellier",
-      "titre": "Cercle de Montpellier",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "34",
-      "depNom": "Hérault",
-      "region": "Occitanie",
-      "villes": "Montpellier",
-      "lieu": "Hérault (34) · Montpellier",
-      "lat": 43.61,
-      "lon": 3.8742,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Toulouse",
-      "court": "Toulouse",
-      "titre": "Cercle de Toulouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "31",
-      "depNom": "Haute-Garonne",
-      "region": "Occitanie",
-      "villes": "Toulouse",
-      "lieu": "Haute-Garonne (31) · Toulouse",
-      "lat": 43.6007,
-      "lon": 1.4328,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -498,10 +377,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "Ancenis-Saint-Géréon",
-      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "villes": "",
+      "lieu": "Loire-Atlantique (44)",
+      "lat": 47.363,
+      "lon": -1.679,
       "boosteuses": [
         "Marine"
       ],
