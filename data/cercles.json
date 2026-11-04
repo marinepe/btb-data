@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-04T06:00:25.345Z",
+  "genere_le": "2026-11-04T07:00:21.137Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -282,9 +282,28 @@
       "recherches": []
     },
     {
-      "nom": "Paris",
-      "court": "Paris",
-      "titre": "Cercle de Paris",
+      "nom": "Paris 17",
+      "court": "Paris 17",
+      "titre": "Cercle de Paris 17",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "75",
+      "depNom": "Paris",
+      "region": "Île-de-France",
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
+      "boosteuses": [
+        "Marine"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Paris 9",
+      "court": "Paris 9",
+      "titre": "Cercle de Paris 9",
       "format": "presentiel",
       "statut": "lancement",
       "dep": "75",
