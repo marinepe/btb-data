@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-04T09:02:05.370Z",
+  "genere_le": "2026-11-04T10:00:35.215Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -115,6 +115,25 @@
       "recherches": []
     },
     {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "boosteuses": [
+        "Marie"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Saint-Brieuc",
       "court": "Saint-Brieuc",
       "titre": "Cercle de Saint-Brieuc",
@@ -166,6 +185,23 @@
       "recherches": []
     },
     {
+      "nom": "Reims",
+      "court": "Reims",
+      "titre": "Cercle de Reims",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "51",
+      "depNom": "Marne",
+      "region": "Grand Est",
+      "villes": "Reims",
+      "lieu": "Marne (51) · Reims",
+      "lat": 49.2535,
+      "lon": 4.0551,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Strasbourg",
       "court": "Strasbourg",
       "titre": "Cercle de Strasbourg",
@@ -178,6 +214,23 @@
       "lieu": "Bas-Rhin (67) · Strasbourg",
       "lat": 48.5691,
       "lon": 7.7621,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lille",
+      "court": "Lille",
+      "titre": "Cercle de Lille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "59",
+      "depNom": "Nord",
+      "region": "Hauts-de-France",
+      "villes": "Lille",
+      "lieu": "Nord (59) · Lille",
+      "lat": 50.6311,
+      "lon": 3.0468,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -257,10 +310,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -283,6 +336,40 @@
       "boosteuses": [
         "Apolline"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Maur",
+      "court": "Saint-Maur",
+      "titre": "Cercle de Saint-Maur",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "94",
+      "depNom": "Val-de-Marne",
+      "region": "Île-de-France",
+      "villes": "Saint-Maur-des-Fossés",
+      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
+      "lat": 48.7999,
+      "lon": 2.4921,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Versailles",
+      "court": "Versailles",
+      "titre": "Cercle de Versailles",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Versailles",
+      "lieu": "Yvelines (78) · Versailles",
+      "lat": 48.8039,
+      "lon": 2.1191,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -312,10 +399,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
       "boosteuses": [
         "Margot"
       ],
@@ -401,6 +488,23 @@
       "lieu": "Hérault (34) · Montpellier",
       "lat": 43.61,
       "lon": 3.8742,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -505,6 +609,23 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nice",
+      "court": "Nice",
+      "titre": "Cercle de Nice",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Nice",
+      "lieu": "Alpes-Maritimes (06) · Nice",
+      "lat": 43.7032,
+      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
