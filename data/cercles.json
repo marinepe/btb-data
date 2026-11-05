@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-05T16:01:20.548Z",
+  "genere_le": "2026-11-05T17:00:21.895Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -14,6 +14,23 @@
       "lieu": "Isère (38) · Grenoble",
       "lat": 45.1842,
       "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lyon",
+      "court": "Lyon",
+      "titre": "Cercle de Lyon",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "69",
+      "depNom": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Lyon",
+      "lieu": "Rhône (69) · Lyon",
+      "lat": 45.758,
+      "lon": 4.8351,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -61,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Ille-et-Vilaine (35)",
-      "lat": 48.155,
-      "lon": -1.637,
+      "villes": "Saint-Malo",
+      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
+      "lat": 48.6465,
+      "lon": -2.0066,
       "boosteuses": [
         "Aurélie"
       ],
@@ -93,6 +110,25 @@
       "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "boosteuses": [
+        "Marie"
       ],
       "metiers": [],
       "recherches": []
@@ -264,10 +300,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Marine"
       ],
@@ -466,6 +502,23 @@
       "recherches": []
     },
     {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -536,6 +589,23 @@
       "recherches": []
     },
     {
+      "nom": "Cannes",
+      "court": "Cannes",
+      "titre": "Cercle de Cannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Cannes",
+      "lieu": "Alpes-Maritimes (06) · Cannes",
+      "lat": 43.5454,
+      "lon": 7.0152,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Marseille",
       "court": "Marseille",
       "titre": "Cercle de Marseille",
@@ -548,6 +618,23 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nice",
+      "court": "Nice",
+      "titre": "Cercle de Nice",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Nice",
+      "lieu": "Alpes-Maritimes (06) · Nice",
+      "lat": 43.7032,
+      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
