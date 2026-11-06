@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-06T11:02:03.330Z",
+  "genere_le": "2026-11-06T12:00:32.487Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -53,6 +53,23 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Etienne",
+      "court": "Saint-Etienne",
+      "titre": "Cercle de Saint-Etienne",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "42",
+      "depNom": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Saint-Étienne",
+      "lieu": "Loire (42) · Saint-Étienne",
+      "lat": 45.4241,
+      "lon": 4.3665,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Côte d’Emeraude",
       "court": "Côte d’Emeraude",
       "titre": "Cercle de la Côte d'Émeraude",
@@ -98,6 +115,25 @@
       "recherches": []
     },
     {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "boosteuses": [
+        "Marie"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Saint-Brieuc",
       "court": "Saint-Brieuc",
       "titre": "Cercle de Saint-Brieuc",
@@ -127,6 +163,40 @@
       "lieu": "Morbihan (56) · Vannes",
       "lat": 47.6577,
       "lon": -2.7485,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Mulhouse",
+      "court": "Mulhouse",
+      "titre": "Cercle de Mulhouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "68",
+      "depNom": "Haut-Rhin",
+      "region": "Grand Est",
+      "villes": "Mulhouse",
+      "lieu": "Haut-Rhin (68) · Mulhouse",
+      "lat": 47.7526,
+      "lon": 7.3255,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Reims",
+      "court": "Reims",
+      "titre": "Cercle de Reims",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "51",
+      "depNom": "Marne",
+      "region": "Grand Est",
+      "villes": "Reims",
+      "lieu": "Marne (51) · Reims",
+      "lat": 49.2535,
+      "lon": 4.0551,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -203,6 +273,25 @@
       ]
     },
     {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Paris 17",
       "court": "Paris 17",
       "titre": "Cercle de Paris 17",
@@ -211,10 +300,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Marine"
       ],
@@ -230,12 +319,31 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
       ],
       "metiers": [],
       "recherches": []
@@ -377,6 +485,23 @@
       "recherches": []
     },
     {
+      "nom": "Montpellier",
+      "court": "Montpellier",
+      "titre": "Cercle de Montpellier",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "34",
+      "depNom": "Hérault",
+      "region": "Occitanie",
+      "villes": "Montpellier",
+      "lieu": "Hérault (34) · Montpellier",
+      "lat": 43.61,
+      "lon": 3.8742,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Toulouse",
       "court": "Toulouse",
       "titre": "Cercle de Toulouse",
@@ -442,6 +567,23 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nantes",
+      "court": "Nantes",
+      "titre": "Cercle de Nantes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Nantes",
+      "lieu": "Loire-Atlantique (44) · Nantes",
+      "lat": 47.2382,
+      "lon": -1.5603,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
