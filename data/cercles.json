@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-06T09:01:20.943Z",
+  "genere_le": "2026-11-06T10:01:04.419Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -113,23 +113,6 @@
       "boosteuses": [
         "Marie"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -332,23 +315,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
-      "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Versailles",
       "court": "Versailles",
       "titre": "Cercle de Versailles",
@@ -451,6 +417,23 @@
       "recherches": []
     },
     {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Montpellier",
       "court": "Montpellier",
       "titre": "Cercle de Montpellier",
@@ -504,23 +487,6 @@
       "recherches": []
     },
     {
-      "nom": "Angers",
-      "court": "Angers",
-      "titre": "Cercle d'Angers",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "49",
-      "depNom": "Maine-et-Loire",
-      "region": "Pays de la Loire",
-      "villes": "Angers",
-      "lieu": "Maine-et-Loire (49) · Angers",
-      "lat": 47.4819,
-      "lon": -0.5629,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Laval",
       "court": "Laval",
       "titre": "Cercle de Laval",
@@ -529,10 +495,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Mayenne (53)",
-      "lat": 48.147,
-      "lon": -0.657,
+      "villes": "Laval",
+      "lieu": "Mayenne (53) · Laval",
+      "lat": 48.0578,
+      "lon": -0.7692,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -584,23 +550,6 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nice",
-      "court": "Nice",
-      "titre": "Cercle de Nice",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "06",
-      "depNom": "Alpes-Maritimes",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Nice",
-      "lieu": "Alpes-Maritimes (06) · Nice",
-      "lat": 43.7032,
-      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
