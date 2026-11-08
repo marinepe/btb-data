@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-08T04:00:19.760Z",
+  "genere_le": "2026-11-08T05:00:27.004Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -300,10 +300,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Marine"
       ],
