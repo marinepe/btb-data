@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-09T08:00:10.796Z",
+  "genere_le": "2026-11-09T11:00:11.243Z",
   "reunions": [
     {
       "debut": "2026-11-20T10:00:00.000Z",
@@ -93,12 +93,6 @@
   ],
   "invitees": [
     {
-      "debut": "2026-11-09T10:00:00.000Z",
-      "fin": "2026-11-09T11:30:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-71e591",
-      "cercle": "Quimper"
-    },
-    {
       "debut": "2026-11-10T11:00:00.000Z",
       "fin": "2026-11-10T13:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-paris-b229eb",
@@ -162,6 +156,12 @@
       "debut": "2027-02-25T10:30:00.000Z",
       "fin": "2027-02-25T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-106133",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2027-03-11T10:30:00.000Z",
+      "fin": "2027-03-11T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-13a596",
       "cercle": "Meaux"
     }
   ]
