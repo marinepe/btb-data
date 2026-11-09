@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-09T13:01:00.807Z",
+  "genere_le": "2026-11-09T14:01:34.235Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -31,23 +31,6 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -104,10 +87,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "Quimper",
-      "lieu": "Finistère (29) · Quimper",
-      "lat": 47.9982,
-      "lon": -4.0972,
+      "villes": "",
+      "lieu": "Finistère (29)",
+      "lat": 48.261,
+      "lon": -4.06,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -319,10 +302,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Chantal"
       ],
@@ -563,10 +546,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "Laval",
-      "lieu": "Mayenne (53) · Laval",
-      "lat": 48.0578,
-      "lon": -0.7692,
+      "villes": "",
+      "lieu": "Mayenne (53)",
+      "lat": 48.147,
+      "lon": -0.657,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
