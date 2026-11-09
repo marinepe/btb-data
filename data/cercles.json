@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-09T16:01:35.161Z",
+  "genere_le": "2026-11-09T17:00:39.812Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -319,10 +319,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -434,10 +434,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -448,6 +448,23 @@
         "Agriculturice",
         "Société de rénovation"
       ],
+      "recherches": []
+    },
+    {
+      "nom": "Biarritz",
+      "court": "Biarritz",
+      "titre": "Cercle de Biarritz",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "64",
+      "depNom": "Pyrénées-Atlantiques",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Biarritz",
+      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
+      "lat": 43.4709,
+      "lon": -1.5557,
+      "boosteuses": [],
+      "metiers": [],
       "recherches": []
     },
     {
@@ -485,6 +502,23 @@
       "recherches": []
     },
     {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -493,10 +527,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
@@ -538,6 +572,23 @@
       "recherches": []
     },
     {
+      "nom": "Nantes",
+      "court": "Nantes",
+      "titre": "Cercle de Nantes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Nantes",
+      "lieu": "Loire-Atlantique (44) · Nantes",
+      "lat": 47.2382,
+      "lon": -1.5603,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Cannes",
       "court": "Cannes",
       "titre": "Cercle de Cannes",
@@ -567,6 +618,23 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nice",
+      "court": "Nice",
+      "titre": "Cercle de Nice",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Nice",
+      "lieu": "Alpes-Maritimes (06) · Nice",
+      "lat": 43.7032,
+      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
