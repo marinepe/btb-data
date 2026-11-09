@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-09T15:01:44.177Z",
+  "genere_le": "2026-11-09T16:01:35.161Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -48,6 +48,23 @@
       "lieu": "Loire (42) · Roanne",
       "lat": 46.0443,
       "lon": 4.0797,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Etienne",
+      "court": "Saint-Etienne",
+      "titre": "Cercle de Saint-Etienne",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "42",
+      "depNom": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Saint-Étienne",
+      "lieu": "Loire (42) · Saint-Étienne",
+      "lat": 45.4241,
+      "lon": 4.3665,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -185,6 +202,23 @@
       "recherches": []
     },
     {
+      "nom": "Strasbourg",
+      "court": "Strasbourg",
+      "titre": "Cercle de Strasbourg",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "67",
+      "depNom": "Bas-Rhin",
+      "region": "Grand Est",
+      "villes": "Strasbourg",
+      "lieu": "Bas-Rhin (67) · Strasbourg",
+      "lat": 48.5691,
+      "lon": 7.7621,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Lille",
       "court": "Lille",
       "titre": "Cercle de Lille",
@@ -285,10 +319,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Chantal"
       ],
@@ -400,10 +434,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Villeneuve-sur-Lot",
-      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -451,23 +485,6 @@
       "recherches": []
     },
     {
-      "nom": "Toulouse",
-      "court": "Toulouse",
-      "titre": "Cercle de Toulouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "31",
-      "depNom": "Haute-Garonne",
-      "region": "Occitanie",
-      "villes": "Toulouse",
-      "lieu": "Haute-Garonne (31) · Toulouse",
-      "lat": 43.6007,
-      "lon": 1.4328,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -476,10 +493,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "Ancenis-Saint-Géréon",
-      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "villes": "",
+      "lieu": "Loire-Atlantique (44)",
+      "lat": 47.363,
+      "lon": -1.679,
       "boosteuses": [
         "Marine"
       ],
@@ -516,6 +533,23 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Cannes",
+      "court": "Cannes",
+      "titre": "Cercle de Cannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Cannes",
+      "lieu": "Alpes-Maritimes (06) · Cannes",
+      "lat": 43.5454,
+      "lon": 7.0152,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
