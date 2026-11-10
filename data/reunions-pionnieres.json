@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-10T08:00:11.042Z",
+  "genere_le": "2026-11-10T11:00:13.417Z",
   "reunions": [
     {
       "debut": "2026-11-20T10:00:00.000Z",
@@ -93,12 +93,6 @@
   ],
   "invitees": [
     {
-      "debut": "2026-11-10T11:00:00.000Z",
-      "fin": "2026-11-10T13:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-paris-b229eb",
-      "cercle": "Paris 17"
-    },
-    {
       "debut": "2026-11-19T10:30:00.000Z",
       "fin": "2026-11-19T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-6b7f9a",
@@ -162,6 +156,12 @@
       "debut": "2027-03-11T10:30:00.000Z",
       "fin": "2027-03-11T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-13a596",
+      "cercle": "Meaux"
+    },
+    {
+      "debut": "2027-03-25T10:30:00.000Z",
+      "fin": "2027-03-25T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-ce4316",
       "cercle": "Meaux"
     }
   ]
