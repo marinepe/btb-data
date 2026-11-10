@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-10T16:01:10.084Z",
+  "genere_le": "2026-11-10T18:00:19.651Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -327,10 +327,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -442,10 +442,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -535,10 +535,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
