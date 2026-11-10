@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-10T09:00:56.832Z",
+  "genere_le": "2026-11-10T10:02:05.241Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -140,23 +140,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Vannes",
       "court": "Vannes",
       "titre": "Cercle de Vannes",
@@ -169,23 +152,6 @@
       "lieu": "Morbihan (56) · Vannes",
       "lat": 47.6577,
       "lon": -2.7485,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Mulhouse",
-      "court": "Mulhouse",
-      "titre": "Cercle de Mulhouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "68",
-      "depNom": "Haut-Rhin",
-      "region": "Grand Est",
-      "villes": "Mulhouse",
-      "lieu": "Haut-Rhin (68) · Mulhouse",
-      "lat": 47.7526,
-      "lon": 7.3255,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -306,10 +272,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Marine"
       ],
@@ -351,23 +317,6 @@
       "boosteuses": [
         "Apolline"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
-      "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
