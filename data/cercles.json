@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-11T11:00:33.435Z",
+  "genere_le": "2026-11-11T11:02:54.256Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -112,10 +112,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
-      "lat": 48.261,
-      "lon": -4.06,
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
       ],
