@@ -1,6 +1,23 @@
 {
-  "genere_le": "2026-11-11T20:01:42.938Z",
+  "genere_le": "2026-11-11T21:01:19.465Z",
   "cercles": [
+    {
+      "nom": "Grenoble",
+      "court": "Grenoble",
+      "titre": "Cercle de Grenoble",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "38",
+      "depNom": "Isère",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Grenoble",
+      "lieu": "Isère (38) · Grenoble",
+      "lat": 45.1842,
+      "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
     {
       "nom": "Lyon",
       "court": "Lyon",
@@ -61,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Ille-et-Vilaine (35)",
-      "lat": 48.155,
-      "lon": -1.637,
+      "villes": "Saint-Malo",
+      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
+      "lat": 48.6465,
+      "lon": -2.0066,
       "boosteuses": [
         "Aurélie"
       ],
@@ -121,6 +138,23 @@
       "boosteuses": [
         "Marie"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Brieuc",
+      "court": "Saint-Brieuc",
+      "titre": "Cercle de Saint-Brieuc",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "22",
+      "depNom": "Côtes-d'Armor",
+      "region": "Bretagne",
+      "villes": "Saint-Brieuc",
+      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
+      "lat": 48.5108,
+      "lon": -2.7657,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -247,6 +281,25 @@
       ]
     },
     {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Paris 17",
       "court": "Paris 17",
       "titre": "Cercle de Paris 17",
@@ -274,12 +327,31 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Chantal"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
       ],
       "metiers": [],
       "recherches": []
@@ -387,10 +459,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -416,6 +488,23 @@
       "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
       "lat": 43.4709,
       "lon": -1.5557,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -463,13 +552,30 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Angers",
+      "court": "Angers",
+      "titre": "Cercle d'Angers",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "49",
+      "depNom": "Maine-et-Loire",
+      "region": "Pays de la Loire",
+      "villes": "Angers",
+      "lieu": "Maine-et-Loire (49) · Angers",
+      "lat": 47.4819,
+      "lon": -0.5629,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
