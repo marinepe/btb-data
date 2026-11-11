@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-11T10:00:22.845Z",
+  "genere_le": "2026-11-11T11:00:33.435Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -112,10 +112,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "Quimper",
-      "lieu": "Finistère (29) · Quimper",
-      "lat": 47.9982,
-      "lon": -4.0972,
+      "villes": "",
+      "lieu": "Finistère (29)",
+      "lat": 48.261,
+      "lon": -4.06,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -353,6 +353,23 @@
       "boosteuses": [
         "Apolline"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Clamart",
+      "court": "Clamart",
+      "titre": "Cercle de Clamart",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "92",
+      "depNom": "Hauts-de-Seine",
+      "region": "Île-de-France",
+      "villes": "Clamart",
+      "lieu": "Hauts-de-Seine (92) · Clamart",
+      "lat": 48.7957,
+      "lon": 2.2518,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
