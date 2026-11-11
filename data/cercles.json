@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-11T21:01:19.465Z",
+  "genere_le": "2026-11-11T22:00:22.563Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -327,10 +327,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
