@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-13T06:00:35.278Z",
+  "genere_le": "2026-11-13T07:00:23.803Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -588,10 +588,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Mayenne (53)",
-      "lat": 48.147,
-      "lon": -0.657,
+      "villes": "Laval",
+      "lieu": "Mayenne (53) · Laval",
+      "lat": 48.0578,
+      "lon": -0.7692,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
