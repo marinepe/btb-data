@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-13T00:00:19.751Z",
+  "genere_le": "2026-11-13T01:00:26.062Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -138,23 +138,6 @@
       "boosteuses": [
         "Marie"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
