@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-14T16:00:29.900Z",
+  "genere_le": "2026-11-14T17:01:16.224Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -643,23 +643,6 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nice",
-      "court": "Nice",
-      "titre": "Cercle de Nice",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "06",
-      "depNom": "Alpes-Maritimes",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Nice",
-      "lieu": "Alpes-Maritimes (06) · Nice",
-      "lat": 43.7032,
-      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
