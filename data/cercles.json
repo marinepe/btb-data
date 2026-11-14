@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-14T08:00:23.890Z",
+  "genere_le": "2026-11-14T09:01:44.176Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -78,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -327,10 +327,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Chantal"
       ],
@@ -353,23 +353,6 @@
       "boosteuses": [
         "Apolline"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Clamart",
-      "court": "Clamart",
-      "titre": "Cercle de Clamart",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "92",
-      "depNom": "Hauts-de-Seine",
-      "region": "Île-de-France",
-      "villes": "Clamart",
-      "lieu": "Hauts-de-Seine (92) · Clamart",
-      "lat": 48.7957,
-      "lon": 2.2518,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -552,10 +535,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "Ancenis-Saint-Géréon",
-      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "villes": "",
+      "lieu": "Loire-Atlantique (44)",
+      "lat": 47.363,
+      "lon": -1.679,
       "boosteuses": [
         "Marine"
       ],
