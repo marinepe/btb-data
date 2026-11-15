@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T22:01:32.169Z",
+  "genere_le": "2026-11-15T23:00:41.119Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -176,6 +176,23 @@
       "recherches": []
     },
     {
+      "nom": "Mulhouse",
+      "court": "Mulhouse",
+      "titre": "Cercle de Mulhouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "68",
+      "depNom": "Haut-Rhin",
+      "region": "Grand Est",
+      "villes": "Mulhouse",
+      "lieu": "Haut-Rhin (68) · Mulhouse",
+      "lat": 47.7526,
+      "lon": 7.3255,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Reims",
       "court": "Reims",
       "titre": "Cercle de Reims",
@@ -321,6 +338,25 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Clamart",
       "court": "Clamart",
       "titre": "Cercle de Clamart",
@@ -367,6 +403,23 @@
       "lieu": "Yvelines (78) · Versailles",
       "lat": 48.8039,
       "lon": 2.1191,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Rouen",
+      "court": "Rouen",
+      "titre": "Cercle de Rouen",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "76",
+      "depNom": "Seine-Maritime",
+      "region": "Normandie",
+      "villes": "Rouen",
+      "lieu": "Seine-Maritime (76) · Rouen",
+      "lat": 49.4412,
+      "lon": 1.0912,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
