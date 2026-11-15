@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T10:00:55.869Z",
+  "genere_le": "2026-11-15T11:01:20.159Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -505,23 +505,6 @@
       "lieu": "Gironde (33) · Bordeaux",
       "lat": 44.8624,
       "lon": -0.5848,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Montpellier",
-      "court": "Montpellier",
-      "titre": "Cercle de Montpellier",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "34",
-      "depNom": "Hérault",
-      "region": "Occitanie",
-      "villes": "Montpellier",
-      "lieu": "Hérault (34) · Montpellier",
-      "lat": 43.61,
-      "lon": 3.8742,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
