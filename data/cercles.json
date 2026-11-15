@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T19:01:26.522Z",
+  "genere_le": "2026-11-15T20:02:09.169Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -254,8 +254,8 @@
       "region": "Île-de-France",
       "villes": "Meaux, Mareuil-lès-Meaux",
       "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
-      "lat": 48.9573,
-      "lon": 2.9035,
+      "lat": 48.627,
+      "lon": 2.934,
       "boosteuses": [
         "Margaux",
         "Camille"
@@ -527,23 +527,6 @@
       "recherches": []
     },
     {
-      "nom": "Toulouse",
-      "court": "Toulouse",
-      "titre": "Cercle de Toulouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "31",
-      "depNom": "Haute-Garonne",
-      "region": "Occitanie",
-      "villes": "Toulouse",
-      "lieu": "Haute-Garonne (31) · Toulouse",
-      "lat": 43.6007,
-      "lon": 1.4328,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -643,23 +626,6 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nice",
-      "court": "Nice",
-      "titre": "Cercle de Nice",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "06",
-      "depNom": "Alpes-Maritimes",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Nice",
-      "lieu": "Alpes-Maritimes (06) · Nice",
-      "lat": 43.7032,
-      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
