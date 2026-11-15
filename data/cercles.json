@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T11:01:20.159Z",
+  "genere_le": "2026-11-15T12:00:58.292Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -78,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -505,6 +505,23 @@
       "lieu": "Gironde (33) · Bordeaux",
       "lat": 44.8624,
       "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Montpellier",
+      "court": "Montpellier",
+      "titre": "Cercle de Montpellier",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "34",
+      "depNom": "Hérault",
+      "region": "Occitanie",
+      "villes": "Montpellier",
+      "lieu": "Hérault (34) · Montpellier",
+      "lat": 43.61,
+      "lon": 3.8742,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
