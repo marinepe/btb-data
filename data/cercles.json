@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T09:01:02.476Z",
+  "genere_le": "2026-11-15T10:00:55.869Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -357,6 +357,23 @@
       "recherches": []
     },
     {
+      "nom": "Clamart",
+      "court": "Clamart",
+      "titre": "Cercle de Clamart",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "92",
+      "depNom": "Hauts-de-Seine",
+      "region": "Île-de-France",
+      "villes": "Clamart",
+      "lieu": "Hauts-de-Seine (92) · Clamart",
+      "lat": 48.7957,
+      "lon": 2.2518,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Saint-Maur",
       "court": "Saint-Maur",
       "titre": "Cercle de Saint-Maur",
@@ -369,6 +386,23 @@
       "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
       "lat": 48.7999,
       "lon": 2.4921,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Versailles",
+      "court": "Versailles",
+      "titre": "Cercle de Versailles",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Versailles",
+      "lieu": "Yvelines (78) · Versailles",
+      "lat": 48.8039,
+      "lon": 2.1191,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
