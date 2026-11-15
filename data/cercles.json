@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T20:02:09.169Z",
+  "genere_le": "2026-11-15T21:01:50.087Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -142,23 +142,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Vannes",
       "court": "Vannes",
       "titre": "Cercle de Vannes",
@@ -188,23 +171,6 @@
       "lieu": "Haut-Rhin (68) · Mulhouse",
       "lat": 47.7526,
       "lon": 7.3255,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Reims",
-      "court": "Reims",
-      "titre": "Cercle de Reims",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "51",
-      "depNom": "Marne",
-      "region": "Grand Est",
-      "villes": "Reims",
-      "lieu": "Marne (51) · Reims",
-      "lat": 49.2535,
-      "lon": 4.0551,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -254,8 +220,8 @@
       "region": "Île-de-France",
       "villes": "Meaux, Mareuil-lès-Meaux",
       "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
-      "lat": 48.627,
-      "lon": 2.934,
+      "lat": 48.9573,
+      "lon": 2.9035,
       "boosteuses": [
         "Margaux",
         "Camille"
@@ -433,10 +399,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Agen",
-      "lieu": "Lot-et-Garonne (47) · Agen",
-      "lat": 44.201,
-      "lon": 0.6302,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Aïno"
       ],
@@ -459,10 +425,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Villeneuve-sur-Lot",
-      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -527,6 +493,23 @@
       "recherches": []
     },
     {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -535,10 +518,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "Ancenis-Saint-Géréon",
-      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "villes": "",
+      "lieu": "Loire-Atlantique (44)",
+      "lat": 47.363,
+      "lon": -1.679,
       "boosteuses": [
         "Marine"
       ],
@@ -626,6 +609,23 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nice",
+      "court": "Nice",
+      "titre": "Cercle de Nice",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Nice",
+      "lieu": "Alpes-Maritimes (06) · Nice",
+      "lat": 43.7032,
+      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
