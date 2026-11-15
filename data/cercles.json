@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T05:00:25.587Z",
+  "genere_le": "2026-11-15T06:01:02.582Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -31,23 +31,6 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
