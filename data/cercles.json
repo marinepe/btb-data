@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T21:01:50.087Z",
+  "genere_le": "2026-11-15T22:01:32.169Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -142,6 +142,23 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Brieuc",
+      "court": "Saint-Brieuc",
+      "titre": "Cercle de Saint-Brieuc",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "22",
+      "depNom": "Côtes-d'Armor",
+      "region": "Bretagne",
+      "villes": "Saint-Brieuc",
+      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
+      "lat": 48.5108,
+      "lon": -2.7657,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Vannes",
       "court": "Vannes",
       "titre": "Cercle de Vannes",
@@ -159,18 +176,18 @@
       "recherches": []
     },
     {
-      "nom": "Mulhouse",
-      "court": "Mulhouse",
-      "titre": "Cercle de Mulhouse",
+      "nom": "Reims",
+      "court": "Reims",
+      "titre": "Cercle de Reims",
       "format": "presentiel",
       "statut": "devenir",
-      "dep": "68",
-      "depNom": "Haut-Rhin",
+      "dep": "51",
+      "depNom": "Marne",
       "region": "Grand Est",
-      "villes": "Mulhouse",
-      "lieu": "Haut-Rhin (68) · Mulhouse",
-      "lat": 47.7526,
-      "lon": 7.3255,
+      "villes": "Reims",
+      "lieu": "Marne (51) · Reims",
+      "lat": 49.2535,
+      "lon": 4.0551,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -304,25 +321,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Germain-en-Laye",
-      "court": "Saint-Germain-en-Laye",
-      "titre": "Cercle de Saint-Germain-en-Laye",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Saint-Germain-en-Laye",
-      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
-      "lat": 48.931,
-      "lon": 2.1052,
-      "boosteuses": [
-        "Apolline"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Clamart",
       "court": "Clamart",
       "titre": "Cercle de Clamart",
@@ -374,23 +372,6 @@
       "recherches": []
     },
     {
-      "nom": "Rouen",
-      "court": "Rouen",
-      "titre": "Cercle de Rouen",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "76",
-      "depNom": "Seine-Maritime",
-      "region": "Normandie",
-      "villes": "Rouen",
-      "lieu": "Seine-Maritime (76) · Rouen",
-      "lat": 49.4412,
-      "lon": 1.0912,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Agen",
       "court": "Agen",
       "titre": "Cercle d'Agen",
@@ -399,10 +380,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
       "boosteuses": [
         "Aïno"
       ],
@@ -425,10 +406,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -518,10 +499,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
