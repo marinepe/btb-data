@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-16T07:03:21.789Z",
+  "genere_le": "2026-11-16T08:02:06.745Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -61,10 +61,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Ille-et-Vilaine (35)",
-      "lat": 48.155,
-      "lon": -1.637,
+      "villes": "Saint-Malo",
+      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
+      "lat": 48.6465,
+      "lon": -2.0066,
       "boosteuses": [
         "Aurélie"
       ],
@@ -95,12 +95,31 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
-      "lat": 48.261,
-      "lon": -4.06,
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "boosteuses": [
+        "Marie"
       ],
       "metiers": [],
       "recherches": []
@@ -174,23 +193,6 @@
       "recherches": []
     },
     {
-      "nom": "Strasbourg",
-      "court": "Strasbourg",
-      "titre": "Cercle de Strasbourg",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "67",
-      "depNom": "Bas-Rhin",
-      "region": "Grand Est",
-      "villes": "Strasbourg",
-      "lieu": "Bas-Rhin (67) · Strasbourg",
-      "lat": 48.5691,
-      "lon": 7.7621,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Lille",
       "court": "Lille",
       "titre": "Cercle de Lille",
@@ -218,8 +220,8 @@
       "region": "Île-de-France",
       "villes": "Meaux, Mareuil-lès-Meaux",
       "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
-      "lat": 48.627,
-      "lon": 2.934,
+      "lat": 48.9573,
+      "lon": 2.9035,
       "boosteuses": [
         "Margaux",
         "Camille"
@@ -245,6 +247,25 @@
       ]
     },
     {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Paris 17",
       "court": "Paris 17",
       "titre": "Cercle de Paris 17",
@@ -253,10 +274,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Marine"
       ],
@@ -272,10 +293,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -298,6 +319,23 @@
       "boosteuses": [
         "Apolline"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Clamart",
+      "court": "Clamart",
+      "titre": "Cercle de Clamart",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "92",
+      "depNom": "Hauts-de-Seine",
+      "region": "Île-de-France",
+      "villes": "Clamart",
+      "lieu": "Hauts-de-Seine (92) · Clamart",
+      "lat": 48.7957,
+      "lon": 2.2518,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -361,10 +399,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
       "boosteuses": [
         "Aïno"
       ],
@@ -387,10 +425,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -404,18 +442,35 @@
       "recherches": []
     },
     {
-      "nom": "Montpellier",
-      "court": "Montpellier",
-      "titre": "Cercle de Montpellier",
+      "nom": "Biarritz",
+      "court": "Biarritz",
+      "titre": "Cercle de Biarritz",
       "format": "presentiel",
       "statut": "devenir",
-      "dep": "34",
-      "depNom": "Hérault",
-      "region": "Occitanie",
-      "villes": "Montpellier",
-      "lieu": "Hérault (34) · Montpellier",
-      "lat": 43.61,
-      "lon": 3.8742,
+      "dep": "64",
+      "depNom": "Pyrénées-Atlantiques",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Biarritz",
+      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
+      "lat": 43.4709,
+      "lon": -1.5557,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -446,13 +501,30 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Angers",
+      "court": "Angers",
+      "titre": "Cercle d'Angers",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "49",
+      "depNom": "Maine-et-Loire",
+      "region": "Pays de la Loire",
+      "villes": "Angers",
+      "lieu": "Maine-et-Loire (49) · Angers",
+      "lat": 47.4819,
+      "lon": -0.5629,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -465,27 +537,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Mayenne (53)",
-      "lat": 48.147,
-      "lon": -0.657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nantes",
-      "court": "Nantes",
-      "titre": "Cercle de Nantes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "44",
-      "depNom": "Loire-Atlantique",
-      "region": "Pays de la Loire",
-      "villes": "Nantes",
-      "lieu": "Loire-Atlantique (44) · Nantes",
-      "lat": 47.2382,
-      "lon": -1.5603,
+      "villes": "Laval",
+      "lieu": "Mayenne (53) · Laval",
+      "lat": 48.0578,
+      "lon": -0.7692,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -520,23 +575,6 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.2803,
       "lon": 5.3806,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nice",
-      "court": "Nice",
-      "titre": "Cercle de Nice",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "06",
-      "depNom": "Alpes-Maritimes",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Nice",
-      "lieu": "Alpes-Maritimes (06) · Nice",
-      "lat": 43.7032,
-      "lon": 7.2528,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
