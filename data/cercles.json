@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-16T00:01:17.300Z",
+  "genere_le": "2026-11-16T01:01:30.627Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -14,23 +14,6 @@
       "lieu": "Isère (38) · Grenoble",
       "lat": 45.1842,
       "lon": 5.7155,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Lyon",
-      "court": "Lyon",
-      "titre": "Cercle de Lyon",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "69",
-      "depNom": "Rhône",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Lyon",
-      "lieu": "Rhône (69) · Lyon",
-      "lat": 45.758,
-      "lon": 4.8351,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -78,10 +61,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -112,31 +95,12 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "Quimper",
-      "lieu": "Finistère (29) · Quimper",
-      "lat": 47.9982,
-      "lon": -4.0972,
+      "villes": "",
+      "lieu": "Finistère (29)",
+      "lat": 48.261,
+      "lon": -4.06,
       "boosteuses": [
         "Gaëlle"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Morlaix",
-      "court": "Morlaix",
-      "titre": "Cercle de Morlaix",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "29",
-      "depNom": "Finistère",
-      "region": "Bretagne",
-      "villes": "Morlaix",
-      "lieu": "Finistère (29) · Morlaix",
-      "lat": 48.5971,
-      "lon": -3.8215,
-      "boosteuses": [
-        "Marie"
       ],
       "metiers": [],
       "recherches": []
@@ -227,23 +191,6 @@
       "recherches": []
     },
     {
-      "nom": "Lille",
-      "court": "Lille",
-      "titre": "Cercle de Lille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "59",
-      "depNom": "Nord",
-      "region": "Hauts-de-France",
-      "villes": "Lille",
-      "lieu": "Nord (59) · Lille",
-      "lat": 50.6311,
-      "lon": 3.0468,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Meaux",
       "court": "Meaux",
       "titre": "Cercle de Meaux",
@@ -254,8 +201,8 @@
       "region": "Île-de-France",
       "villes": "Meaux, Mareuil-lès-Meaux",
       "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
-      "lat": 48.9573,
-      "lon": 2.9035,
+      "lat": 48.627,
+      "lon": 2.934,
       "boosteuses": [
         "Margaux",
         "Camille"
@@ -327,10 +274,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Chantal"
       ],
@@ -374,6 +321,23 @@
       "recherches": []
     },
     {
+      "nom": "Versailles",
+      "court": "Versailles",
+      "titre": "Cercle de Versailles",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Versailles",
+      "lieu": "Yvelines (78) · Versailles",
+      "lat": 48.8039,
+      "lon": 2.1191,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Rouen",
       "court": "Rouen",
       "titre": "Cercle de Rouen",
@@ -399,10 +363,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Agen",
-      "lieu": "Lot-et-Garonne (47) · Agen",
-      "lat": 44.201,
-      "lon": 0.6302,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Aïno"
       ],
@@ -425,10 +389,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Villeneuve-sur-Lot",
-      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -439,6 +403,23 @@
         "Agriculturice",
         "Société de rénovation"
       ],
+      "recherches": []
+    },
+    {
+      "nom": "Biarritz",
+      "court": "Biarritz",
+      "titre": "Cercle de Biarritz",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "64",
+      "depNom": "Pyrénées-Atlantiques",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Biarritz",
+      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
+      "lat": 43.4709,
+      "lon": -1.5557,
+      "boosteuses": [],
+      "metiers": [],
       "recherches": []
     },
     {
@@ -501,13 +482,30 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "Ancenis-Saint-Géréon",
-      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "villes": "",
+      "lieu": "Loire-Atlantique (44)",
+      "lat": 47.363,
+      "lon": -1.679,
       "boosteuses": [
         "Marine"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Angers",
+      "court": "Angers",
+      "titre": "Cercle d'Angers",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "49",
+      "depNom": "Maine-et-Loire",
+      "region": "Pays de la Loire",
+      "villes": "Angers",
+      "lieu": "Maine-et-Loire (49) · Angers",
+      "lat": 47.4819,
+      "lon": -0.5629,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
@@ -520,10 +518,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "Laval",
-      "lieu": "Mayenne (53) · Laval",
-      "lat": 48.0578,
-      "lon": -0.7692,
+      "villes": "",
+      "lieu": "Mayenne (53)",
+      "lat": 48.147,
+      "lon": -0.657,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -558,6 +556,23 @@
       "lieu": "Alpes-Maritimes (06) · Cannes",
       "lat": 43.5454,
       "lon": 7.0152,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
