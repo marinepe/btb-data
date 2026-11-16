@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-15T23:00:41.119Z",
+  "genere_le": "2026-11-16T00:01:17.300Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -357,23 +357,6 @@
       "recherches": []
     },
     {
-      "nom": "Clamart",
-      "court": "Clamart",
-      "titre": "Cercle de Clamart",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "92",
-      "depNom": "Hauts-de-Seine",
-      "region": "Île-de-France",
-      "villes": "Clamart",
-      "lieu": "Hauts-de-Seine (92) · Clamart",
-      "lat": 48.7957,
-      "lon": 2.2518,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Saint-Maur",
       "court": "Saint-Maur",
       "titre": "Cercle de Saint-Maur",
@@ -386,23 +369,6 @@
       "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
       "lat": 48.7999,
       "lon": 2.4921,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Versailles",
-      "court": "Versailles",
-      "titre": "Cercle de Versailles",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Versailles",
-      "lieu": "Yvelines (78) · Versailles",
-      "lat": 48.8039,
-      "lon": 2.1191,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -476,23 +442,6 @@
       "recherches": []
     },
     {
-      "nom": "Biarritz",
-      "court": "Biarritz",
-      "titre": "Cercle de Biarritz",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "64",
-      "depNom": "Pyrénées-Atlantiques",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Biarritz",
-      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
-      "lat": 43.4709,
-      "lon": -1.5557,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Bordeaux",
       "court": "Bordeaux",
       "titre": "Cercle de Bordeaux",
@@ -563,23 +512,6 @@
       "recherches": []
     },
     {
-      "nom": "Angers",
-      "court": "Angers",
-      "titre": "Cercle d'Angers",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "49",
-      "depNom": "Maine-et-Loire",
-      "region": "Pays de la Loire",
-      "villes": "Angers",
-      "lieu": "Maine-et-Loire (49) · Angers",
-      "lat": 47.4819,
-      "lon": -0.5629,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Laval",
       "court": "Laval",
       "titre": "Cercle de Laval",
@@ -626,23 +558,6 @@
       "lieu": "Alpes-Maritimes (06) · Cannes",
       "lat": 43.5454,
       "lon": 7.0152,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Marseille",
-      "court": "Marseille",
-      "titre": "Cercle de Marseille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "13",
-      "depNom": "Bouches-du-Rhône",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Marseille",
-      "lieu": "Bouches-du-Rhône (13) · Marseille",
-      "lat": 43.2803,
-      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
