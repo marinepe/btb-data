@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-19T05:00:33.805Z",
+  "genere_le": "2026-11-19T06:00:39.867Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -353,23 +353,6 @@
       "boosteuses": [
         "Apolline"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Clamart",
-      "court": "Clamart",
-      "titre": "Cercle de Clamart",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "92",
-      "depNom": "Hauts-de-Seine",
-      "region": "Île-de-France",
-      "villes": "Clamart",
-      "lieu": "Hauts-de-Seine (92) · Clamart",
-      "lat": 48.7957,
-      "lon": 2.2518,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
