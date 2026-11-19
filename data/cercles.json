@@ -1,6 +1,23 @@
 {
-  "genere_le": "2026-11-19T16:03:33.110Z",
+  "genere_le": "2026-11-19T17:01:35.875Z",
   "cercles": [
+    {
+      "nom": "Grenoble",
+      "court": "Grenoble",
+      "titre": "Cercle de Grenoble",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "38",
+      "depNom": "Isère",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Grenoble",
+      "lieu": "Isère (38) · Grenoble",
+      "lat": 45.1842,
+      "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
     {
       "nom": "Lyon",
       "court": "Lyon",
@@ -14,6 +31,23 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Roanne",
+      "court": "Roanne",
+      "titre": "Cercle de Roanne",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "42",
+      "depNom": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Roanne",
+      "lieu": "Loire (42) · Roanne",
+      "lat": 46.0443,
+      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -89,6 +123,25 @@
       "recherches": []
     },
     {
+      "nom": "Morlaix",
+      "court": "Morlaix",
+      "titre": "Cercle de Morlaix",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "29",
+      "depNom": "Finistère",
+      "region": "Bretagne",
+      "villes": "Morlaix",
+      "lieu": "Finistère (29) · Morlaix",
+      "lat": 48.5971,
+      "lon": -3.8215,
+      "boosteuses": [
+        "Marie"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Saint-Brieuc",
       "court": "Saint-Brieuc",
       "titre": "Cercle de Saint-Brieuc",
@@ -140,6 +193,23 @@
       "recherches": []
     },
     {
+      "nom": "Reims",
+      "court": "Reims",
+      "titre": "Cercle de Reims",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "51",
+      "depNom": "Marne",
+      "region": "Grand Est",
+      "villes": "Reims",
+      "lieu": "Marne (51) · Reims",
+      "lat": 49.2535,
+      "lon": 4.0551,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Strasbourg",
       "court": "Strasbourg",
       "titre": "Cercle de Strasbourg",
@@ -157,6 +227,23 @@
       "recherches": []
     },
     {
+      "nom": "Lille",
+      "court": "Lille",
+      "titre": "Cercle de Lille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "59",
+      "depNom": "Nord",
+      "region": "Hauts-de-France",
+      "villes": "Lille",
+      "lieu": "Nord (59) · Lille",
+      "lat": 50.6311,
+      "lon": 3.0468,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Meaux",
       "court": "Meaux",
       "titre": "Cercle de Meaux",
@@ -167,8 +254,8 @@
       "region": "Île-de-France",
       "villes": "Meaux, Mareuil-lès-Meaux",
       "lieu": "Seine-et-Marne (77) · Meaux, Mareuil-lès-Meaux",
-      "lat": 48.627,
-      "lon": 2.934,
+      "lat": 48.9573,
+      "lon": 2.9035,
       "boosteuses": [
         "Margaux",
         "Camille"
@@ -192,6 +279,25 @@
         "Assistante externalisée",
         "Consultante organisation et processus"
       ]
+    },
+    {
+      "nom": "Carrières-sous Poissy",
+      "court": "Carrières-sous Poissy",
+      "titre": "Cercle de Carrières-sous Poissy",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Carrières-sous-Poissy",
+      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
+      "lat": 48.9469,
+      "lon": 2.0264,
+      "boosteuses": [
+        "Wafa"
+      ],
+      "metiers": [],
+      "recherches": []
     },
     {
       "nom": "Paris 17",
@@ -221,10 +327,10 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "",
-      "lieu": "Paris (75)",
-      "lat": 48.856,
-      "lon": 2.344,
+      "villes": "Paris",
+      "lieu": "Paris (75) · Paris",
+      "lat": 48.8589,
+      "lon": 2.347,
       "boosteuses": [
         "Chantal"
       ],
@@ -285,6 +391,23 @@
       "recherches": []
     },
     {
+      "nom": "Versailles",
+      "court": "Versailles",
+      "titre": "Cercle de Versailles",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Versailles",
+      "lieu": "Yvelines (78) · Versailles",
+      "lat": 48.8039,
+      "lon": 2.1191,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Rouen",
       "court": "Rouen",
       "titre": "Cercle de Rouen",
@@ -310,10 +433,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
       "boosteuses": [
         "Aïno"
       ],
@@ -336,10 +459,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
+      "lat": 44.4183,
+      "lon": 0.7484,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -370,6 +493,57 @@
       "recherches": []
     },
     {
+      "nom": "Bordeaux",
+      "court": "Bordeaux",
+      "titre": "Cercle de Bordeaux",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "33",
+      "depNom": "Gironde",
+      "region": "Nouvelle-Aquitaine",
+      "villes": "Bordeaux",
+      "lieu": "Gironde (33) · Bordeaux",
+      "lat": 44.8624,
+      "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Montpellier",
+      "court": "Montpellier",
+      "titre": "Cercle de Montpellier",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "34",
+      "depNom": "Hérault",
+      "region": "Occitanie",
+      "villes": "Montpellier",
+      "lieu": "Hérault (34) · Montpellier",
+      "lat": 43.61,
+      "lon": 3.8742,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.6007,
+      "lon": 1.4328,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -378,10 +552,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Loire-Atlantique (44)",
-      "lat": 47.363,
-      "lon": -1.679,
+      "villes": "Ancenis-Saint-Géréon",
+      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
+      "lat": 47.382,
+      "lon": -1.1681,
       "boosteuses": [
         "Marine"
       ],
@@ -452,6 +626,23 @@
       "lieu": "Alpes-Maritimes (06) · Cannes",
       "lat": 43.5454,
       "lon": 7.0152,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
