@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-19T18:00:35.863Z",
+  "genere_le": "2026-11-19T19:00:38.524Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -14,6 +14,23 @@
       "lieu": "Isère (38) · Grenoble",
       "lat": 45.1842,
       "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lyon",
+      "court": "Lyon",
+      "titre": "Cercle de Lyon",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "69",
+      "depNom": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Lyon",
+      "lieu": "Rhône (69) · Lyon",
+      "lat": 45.758,
+      "lon": 4.8351,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -357,6 +374,23 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Maur",
+      "court": "Saint-Maur",
+      "titre": "Cercle de Saint-Maur",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "94",
+      "depNom": "Val-de-Marne",
+      "region": "Île-de-France",
+      "villes": "Saint-Maur-des-Fossés",
+      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
+      "lat": 48.7999,
+      "lon": 2.4921,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Versailles",
       "court": "Versailles",
       "titre": "Cercle de Versailles",
@@ -592,6 +626,23 @@
       "lieu": "Alpes-Maritimes (06) · Cannes",
       "lat": 43.5454,
       "lon": 7.0152,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.2803,
+      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
