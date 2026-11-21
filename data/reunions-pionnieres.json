@@ -1,11 +1,6 @@
 {
-  "genere_le": "2026-11-19T20:00:10.668Z",
+  "genere_le": "2026-11-21T11:00:10.877Z",
   "reunions": [
-    {
-      "debut": "2026-11-20T10:00:00.000Z",
-      "fin": "2026-11-20T11:30:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/pionnieres-349b4f-b09852-32a089-a1d57b-e3e738-abf946-48d28b-8ac132-c5dfbf-417375-e1aee5-716c30"
-    },
     {
       "debut": "2026-12-10T09:30:00.000Z",
       "fin": "2026-12-10T11:00:00.000Z",
@@ -56,11 +51,6 @@
     }
   ],
   "experiences": [
-    {
-      "debut": "2026-11-20T08:30:00.000Z",
-      "fin": "2026-11-20T10:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/la-big-experience-e60ba4-cfecc9-5e0dd4-a5c8a4-1448da-590c05-44e013-40f101-60d318"
-    },
     {
       "debut": "2026-11-24T11:30:00.000Z",
       "fin": "2026-11-24T13:00:00.000Z",
