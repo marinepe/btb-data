@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-22T17:01:00.364Z",
+  "genere_le": "2026-11-22T23:01:00.648Z",
   "semaine": {
     "publications": 5,
-    "commentaires": 19,
-    "membres_actives": 15,
+    "commentaires": 18,
+    "membres_actives": 14,
     "reactions": 41,
     "espaces_actifs": [
       "Vie du réseau",
       "Présentations",
-      "Coup de Boost"
+      "La boutique"
     ]
   },
   "mois": {
@@ -22,8 +22,8 @@
       "Vie du réseau"
     ]
   },
-  "membres_total": 581,
-  "contacts_total": 581,
+  "membres_total": 582,
+  "contacts_total": 582,
   "publications_total": 381,
   "commentaires_total": 884,
   "evenements_a_venir_30j": 30
