@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-22T20:00:10.491Z",
+  "genere_le": "2026-11-22T20:15:22.301Z",
   "reunions": [
     {
       "debut": "2026-12-10T09:30:00.000Z",
@@ -51,11 +51,6 @@
     }
   ],
   "experiences": [
-    {
-      "debut": "2026-11-24T11:30:00.000Z",
-      "fin": "2026-11-24T13:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/l-experience-re-btb-e5e7ce-106111-a93ff8-ec3a65-a125fb-b6bfcd-daebb4-c10cd3-3a6f27-49d761-d16f4f"
-    },
     {
       "debut": "2026-11-27T11:00:00.000Z",
       "fin": "2026-11-27T13:30:00.000Z",
