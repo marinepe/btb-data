@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-22T05:00:10.546Z",
+  "genere_le": "2026-11-22T08:00:10.610Z",
   "reunions": [
     {
       "debut": "2026-12-10T09:30:00.000Z",
@@ -85,22 +85,16 @@
       "cercle": "Quimper"
     },
     {
-      "debut": "2026-11-24T11:15:00.000Z",
-      "fin": "2026-11-24T13:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-paris-b229eb-1a8e8c",
-      "cercle": "Paris 17"
-    },
-    {
       "debut": "2026-12-03T10:30:00.000Z",
       "fin": "2026-12-03T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-a88ac7",
       "cercle": "Meaux"
     },
     {
-      "debut": "2026-12-07T10:00:00.000Z",
-      "fin": "2026-12-07T11:30:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-quimper-invitees-64fa8b",
-      "cercle": "Quimper"
+      "debut": "2026-12-08T11:30:00.000Z",
+      "fin": "2026-12-08T13:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-paris-b229eb-97c4da",
+      "cercle": "Paris 17"
     },
     {
       "debut": "2026-12-17T10:30:00.000Z",
@@ -115,10 +109,22 @@
       "cercle": "Meaux"
     },
     {
+      "debut": "2027-01-11T10:00:00.000Z",
+      "fin": "2027-01-11T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-invitees-fa1b9b",
+      "cercle": "Quimper Invitées"
+    },
+    {
       "debut": "2027-01-14T10:30:00.000Z",
       "fin": "2027-01-14T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-d24da1",
       "cercle": "Meaux"
+    },
+    {
+      "debut": "2027-01-25T10:00:00.000Z",
+      "fin": "2027-01-25T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-invitees-56de33",
+      "cercle": "Quimper Invitées"
     },
     {
       "debut": "2027-01-28T10:30:00.000Z",
@@ -127,28 +133,22 @@
       "cercle": "Meaux"
     },
     {
+      "debut": "2027-02-08T10:00:00.000Z",
+      "fin": "2027-02-08T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-invitees-a70ce3",
+      "cercle": "Quimper Invitées"
+    },
+    {
       "debut": "2027-02-11T10:30:00.000Z",
       "fin": "2027-02-11T12:00:00.000Z",
       "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-b33b18",
       "cercle": "Meaux"
     },
     {
-      "debut": "2027-02-25T10:30:00.000Z",
-      "fin": "2027-02-25T12:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-106133",
-      "cercle": "Meaux"
-    },
-    {
-      "debut": "2027-03-11T10:30:00.000Z",
-      "fin": "2027-03-11T12:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-13a596",
-      "cercle": "Meaux"
-    },
-    {
-      "debut": "2027-03-25T10:30:00.000Z",
-      "fin": "2027-03-25T12:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-meaux-ce4316",
-      "cercle": "Meaux"
+      "debut": "2027-02-22T10:00:00.000Z",
+      "fin": "2027-02-22T11:30:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/bouge-up-cercles/bouge-up-invitees-913270",
+      "cercle": "Quimper Invitées"
     }
   ]
 }
