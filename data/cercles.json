@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-23T07:00:30.654Z",
+  "genere_le": "2026-11-23T08:00:25.357Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -592,23 +592,6 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nantes",
-      "court": "Nantes",
-      "titre": "Cercle de Nantes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "44",
-      "depNom": "Loire-Atlantique",
-      "region": "Pays de la Loire",
-      "villes": "Nantes",
-      "lieu": "Loire-Atlantique (44) · Nantes",
-      "lat": 47.2382,
-      "lon": -1.5603,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
