@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-23T11:00:56.551Z",
+  "genere_le": "2026-11-23T12:00:34.553Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -353,6 +353,40 @@
       "boosteuses": [
         "Apolline"
       ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Clamart",
+      "court": "Clamart",
+      "titre": "Cercle de Clamart",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "92",
+      "depNom": "Hauts-de-Seine",
+      "region": "Île-de-France",
+      "villes": "Clamart",
+      "lieu": "Hauts-de-Seine (92) · Clamart",
+      "lat": 48.7957,
+      "lon": 2.2518,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Saint-Maur",
+      "court": "Saint-Maur",
+      "titre": "Cercle de Saint-Maur",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "94",
+      "depNom": "Val-de-Marne",
+      "region": "Île-de-France",
+      "villes": "Saint-Maur-des-Fossés",
+      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
+      "lat": 48.7999,
+      "lon": 2.4921,
+      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
