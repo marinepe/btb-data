@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-23T08:00:25.357Z",
+  "genere_le": "2026-11-23T09:00:56.015Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -338,25 +338,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Germain-en-Laye",
-      "court": "Saint-Germain-en-Laye",
-      "titre": "Cercle de Saint-Germain-en-Laye",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Saint-Germain-en-Laye",
-      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
-      "lat": 48.931,
-      "lon": 2.1052,
-      "boosteuses": [
-        "Apolline"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Clamart",
       "court": "Clamart",
       "titre": "Cercle de Clamart",
@@ -592,6 +573,23 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nantes",
+      "court": "Nantes",
+      "titre": "Cercle de Nantes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Nantes",
+      "lieu": "Loire-Atlantique (44) · Nantes",
+      "lat": 47.2382,
+      "lon": -1.5603,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
