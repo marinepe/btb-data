@@ -1,11 +1,6 @@
 {
-  "genere_le": "2026-11-23T11:00:09.248Z",
+  "genere_le": "2026-11-23T14:00:08.301Z",
   "reunions": [
-    {
-      "debut": "2026-11-23T11:00:00.000Z",
-      "fin": "2026-11-23T12:00:00.000Z",
-      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/presentation-decouvre-notre-club-business-100-feminin-bouge-ta-boite-785b3a"
-    },
     {
       "debut": "2026-12-08T11:00:00.000Z",
       "fin": "2026-12-08T12:00:00.000Z",
@@ -30,6 +25,11 @@
       "debut": "2027-02-09T08:30:00.000Z",
       "fin": "2027-02-09T09:30:00.000Z",
       "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/presentation-decouvre-notre-club-business-100-feminin-bouge-ta-boite-f7b121"
+    },
+    {
+      "debut": "2027-02-22T11:00:00.000Z",
+      "fin": "2027-02-22T12:00:00.000Z",
+      "lien": "https://www.bougetaboite.com/c/evenements-en-ligne/presentation-decouvre-notre-club-business-100-feminin-bouge-ta-boite-d10aea"
     }
   ]
 }
