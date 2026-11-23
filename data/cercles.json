@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-23T16:00:39.890Z",
+  "genere_le": "2026-11-23T17:02:11.157Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -53,23 +53,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Etienne",
-      "court": "Saint-Etienne",
-      "titre": "Cercle de Saint-Etienne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Saint-Étienne",
-      "lieu": "Loire (42) · Saint-Étienne",
-      "lat": 45.4241,
-      "lon": 4.3665,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Côte d’Emeraude",
       "court": "Côte d’Emeraude",
       "titre": "Cercle de la Côte d'Émeraude",
@@ -78,10 +61,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -227,23 +210,6 @@
       "recherches": []
     },
     {
-      "nom": "Lille",
-      "court": "Lille",
-      "titre": "Cercle de Lille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "59",
-      "depNom": "Nord",
-      "region": "Hauts-de-France",
-      "villes": "Lille",
-      "lieu": "Nord (59) · Lille",
-      "lat": 50.6311,
-      "lon": 3.0468,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Meaux",
       "court": "Meaux",
       "titre": "Cercle de Meaux",
@@ -338,93 +304,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Germain-en-Laye",
-      "court": "Saint-Germain-en-Laye",
-      "titre": "Cercle de Saint-Germain-en-Laye",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Saint-Germain-en-Laye",
-      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
-      "lat": 48.931,
-      "lon": 2.1052,
-      "boosteuses": [
-        "Apolline"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Clamart",
-      "court": "Clamart",
-      "titre": "Cercle de Clamart",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "92",
-      "depNom": "Hauts-de-Seine",
-      "region": "Île-de-France",
-      "villes": "Clamart",
-      "lieu": "Hauts-de-Seine (92) · Clamart",
-      "lat": 48.7957,
-      "lon": 2.2518,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Maur",
-      "court": "Saint-Maur",
-      "titre": "Cercle de Saint-Maur",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "94",
-      "depNom": "Val-de-Marne",
-      "region": "Île-de-France",
-      "villes": "Saint-Maur-des-Fossés",
-      "lieu": "Val-de-Marne (94) · Saint-Maur-des-Fossés",
-      "lat": 48.7999,
-      "lon": 2.4921,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Versailles",
-      "court": "Versailles",
-      "titre": "Cercle de Versailles",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Versailles",
-      "lieu": "Yvelines (78) · Versailles",
-      "lat": 48.8039,
-      "lon": 2.1191,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Rouen",
-      "court": "Rouen",
-      "titre": "Cercle de Rouen",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "76",
-      "depNom": "Seine-Maritime",
-      "region": "Normandie",
-      "villes": "Rouen",
-      "lieu": "Seine-Maritime (76) · Rouen",
-      "lat": 49.4412,
-      "lon": 1.0912,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Agen",
       "court": "Agen",
       "titre": "Cercle d'Agen",
@@ -514,23 +393,6 @@
       "recherches": []
     },
     {
-      "nom": "Bordeaux",
-      "court": "Bordeaux",
-      "titre": "Cercle de Bordeaux",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "33",
-      "depNom": "Gironde",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Bordeaux",
-      "lieu": "Gironde (33) · Bordeaux",
-      "lat": 44.8624,
-      "lon": -0.5848,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Montpellier",
       "court": "Montpellier",
       "titre": "Cercle de Montpellier",
@@ -580,23 +442,6 @@
       "boosteuses": [
         "Marine"
       ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Angers",
-      "court": "Angers",
-      "titre": "Cercle d'Angers",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "49",
-      "depNom": "Maine-et-Loire",
-      "region": "Pays de la Loire",
-      "villes": "Angers",
-      "lieu": "Maine-et-Loire (49) · Angers",
-      "lat": 47.4819,
-      "lon": -0.5629,
-      "boosteuses": [],
       "metiers": [],
       "recherches": []
     },
