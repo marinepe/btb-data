@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-24T13:01:00.192Z",
+  "genere_le": "2026-11-24T14:02:55.804Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -123,25 +123,6 @@
       "recherches": []
     },
     {
-      "nom": "Morlaix",
-      "court": "Morlaix",
-      "titre": "Cercle de Morlaix",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "29",
-      "depNom": "Finistère",
-      "region": "Bretagne",
-      "villes": "Morlaix",
-      "lieu": "Finistère (29) · Morlaix",
-      "lat": 48.5971,
-      "lon": -3.8215,
-      "boosteuses": [
-        "Marie"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Saint-Brieuc",
       "court": "Saint-Brieuc",
       "titre": "Cercle de Saint-Brieuc",
@@ -154,23 +135,6 @@
       "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
       "lat": 48.5108,
       "lon": -2.7657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Vannes",
-      "court": "Vannes",
-      "titre": "Cercle de Vannes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "56",
-      "depNom": "Morbihan",
-      "region": "Bretagne",
-      "villes": "Vannes",
-      "lieu": "Morbihan (56) · Vannes",
-      "lat": 47.6577,
-      "lon": -2.7485,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -281,30 +245,11 @@
       ]
     },
     {
-      "nom": "Carrières-sous Poissy",
-      "court": "Carrières-sous Poissy",
-      "titre": "Cercle de Carrières-sous Poissy",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Carrières-sous-Poissy",
-      "lieu": "Yvelines (78) · Carrières-sous-Poissy",
-      "lat": 48.9469,
-      "lon": 2.0264,
-      "boosteuses": [
-        "Wafa"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Paris 17",
       "court": "Paris 17",
       "titre": "Cercle de Paris 17",
       "format": "presentiel",
-      "statut": "lancement",
+      "statut": "actif",
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
@@ -315,7 +260,11 @@
       "boosteuses": [
         "Marine"
       ],
-      "metiers": [],
+      "metiers": [
+        "Agence de communication",
+        "Thérapeute",
+        "Coach et formatrice"
+      ],
       "recherches": []
     },
     {
@@ -333,25 +282,6 @@
       "lon": 2.347,
       "boosteuses": [
         "Chantal"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Saint-Germain-en-Laye",
-      "court": "Saint-Germain-en-Laye",
-      "titre": "Cercle de Saint-Germain-en-Laye",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "78",
-      "depNom": "Yvelines",
-      "region": "Île-de-France",
-      "villes": "Saint-Germain-en-Laye",
-      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
-      "lat": 48.931,
-      "lon": 2.1052,
-      "boosteuses": [
-        "Apolline"
       ],
       "metiers": [],
       "recherches": []
@@ -403,23 +333,6 @@
       "lieu": "Yvelines (78) · Versailles",
       "lat": 48.8039,
       "lon": 2.1191,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Rouen",
-      "court": "Rouen",
-      "titre": "Cercle de Rouen",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "76",
-      "depNom": "Seine-Maritime",
-      "region": "Normandie",
-      "villes": "Rouen",
-      "lieu": "Seine-Maritime (76) · Rouen",
-      "lat": 49.4412,
-      "lon": 1.0912,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -548,23 +461,6 @@
       "recherches": []
     },
     {
-      "nom": "Toulouse",
-      "court": "Toulouse",
-      "titre": "Cercle de Toulouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "31",
-      "depNom": "Haute-Garonne",
-      "region": "Occitanie",
-      "villes": "Toulouse",
-      "lieu": "Haute-Garonne (31) · Toulouse",
-      "lat": 43.6007,
-      "lon": 1.4328,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -573,10 +469,10 @@
       "dep": "44",
       "depNom": "Loire-Atlantique",
       "region": "Pays de la Loire",
-      "villes": "Ancenis-Saint-Géréon",
-      "lieu": "Loire-Atlantique (44) · Ancenis-Saint-Géréon",
-      "lat": 47.382,
-      "lon": -1.1681,
+      "villes": "",
+      "lieu": "Loire-Atlantique (44)",
+      "lat": 47.363,
+      "lon": -1.679,
       "boosteuses": [
         "Marine"
       ],
@@ -613,23 +509,6 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nantes",
-      "court": "Nantes",
-      "titre": "Cercle de Nantes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "44",
-      "depNom": "Loire-Atlantique",
-      "region": "Pays de la Loire",
-      "villes": "Nantes",
-      "lieu": "Loire-Atlantique (44) · Nantes",
-      "lat": 47.2382,
-      "lon": -1.5603,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
