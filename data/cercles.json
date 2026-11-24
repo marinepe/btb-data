@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-24T12:01:25.552Z",
+  "genere_le": "2026-11-24T13:01:00.192Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -112,10 +112,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
-      "lat": 48.261,
-      "lon": -4.06,
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -222,6 +222,23 @@
       "lieu": "Bas-Rhin (67) · Strasbourg",
       "lat": 48.5691,
       "lon": 7.7621,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lille",
+      "court": "Lille",
+      "titre": "Cercle de Lille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "59",
+      "depNom": "Nord",
+      "region": "Hauts-de-France",
+      "villes": "Lille",
+      "lieu": "Nord (59) · Lille",
+      "lat": 50.6311,
+      "lon": 3.0468,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -416,10 +433,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
-      "lat": 44.367,
-      "lon": 0.461,
+      "villes": "Agen",
+      "lieu": "Lot-et-Garonne (47) · Agen",
+      "lat": 44.201,
+      "lon": 0.6302,
       "boosteuses": [
         "Aïno"
       ],
@@ -592,10 +609,10 @@
       "dep": "53",
       "depNom": "Mayenne",
       "region": "Pays de la Loire",
-      "villes": "",
-      "lieu": "Mayenne (53)",
-      "lat": 48.147,
-      "lon": -0.657,
+      "villes": "Laval",
+      "lieu": "Mayenne (53) · Laval",
+      "lat": 48.0578,
+      "lon": -0.7692,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
