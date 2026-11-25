@@ -1,10 +1,10 @@
 {
-  "genere_le": "2026-11-25T11:01:00.475Z",
+  "genere_le": "2026-11-25T17:01:01.359Z",
   "semaine": {
-    "publications": 6,
-    "commentaires": 20,
-    "membres_actives": 11,
-    "reactions": 34,
+    "publications": 9,
+    "commentaires": 22,
+    "membres_actives": 14,
+    "reactions": 39,
     "espaces_actifs": [
       "Coup de Boost",
       "Vie du réseau",
@@ -12,10 +12,10 @@
     ]
   },
   "mois": {
-    "publications": 37,
-    "commentaires": 110,
-    "membres_actives": 36,
-    "reactions": 211,
+    "publications": 41,
+    "commentaires": 111,
+    "membres_actives": 37,
+    "reactions": 217,
     "espaces_actifs": [
       "Coup de Boost",
       "Présentations",
@@ -24,7 +24,7 @@
   },
   "membres_total": 591,
   "contacts_total": 591,
-  "publications_total": 385,
-  "commentaires_total": 897,
+  "publications_total": 389,
+  "commentaires_total": 900,
   "evenements_a_venir_30j": 27
 }
