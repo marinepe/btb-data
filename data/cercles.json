@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-25T09:00:55.128Z",
+  "genere_le": "2026-11-25T10:01:20.888Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -78,10 +78,10 @@
       "dep": "35",
       "depNom": "Ille-et-Vilaine",
       "region": "Bretagne",
-      "villes": "Saint-Malo",
-      "lieu": "Ille-et-Vilaine (35) · Saint-Malo",
-      "lat": 48.6465,
-      "lon": -2.0066,
+      "villes": "",
+      "lieu": "Ille-et-Vilaine (35)",
+      "lat": 48.155,
+      "lon": -1.637,
       "boosteuses": [
         "Aurélie"
       ],
@@ -281,18 +281,18 @@
       ]
     },
     {
-      "nom": "Paris 17",
-      "court": "Paris 17",
-      "titre": "Cercle de Paris 17",
+      "nom": "Paris Nord",
+      "court": "Paris Nord",
+      "titre": "Cercle de Paris Nord",
       "format": "presentiel",
       "statut": "actif",
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
-      "lat": 48.8589,
-      "lon": 2.347,
+      "villes": "",
+      "lieu": "Paris (75)",
+      "lat": 48.856,
+      "lon": 2.344,
       "boosteuses": [
         "Marine"
       ],
