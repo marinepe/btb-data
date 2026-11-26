@@ -1,6 +1,57 @@
 {
-  "genere_le": "2026-11-26T11:01:16.900Z",
+  "genere_le": "2026-11-26T12:00:42.902Z",
   "cercles": [
+    {
+      "nom": "Grenoble",
+      "court": "Grenoble",
+      "titre": "Cercle de Grenoble",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "38",
+      "depNom": "Isère",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Grenoble",
+      "lieu": "Isère (38) · Grenoble",
+      "lat": 45.1842,
+      "lon": 5.7155,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Lyon",
+      "court": "Lyon",
+      "titre": "Cercle de Lyon",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "69",
+      "depNom": "Rhône",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Lyon",
+      "lieu": "Rhône (69) · Lyon",
+      "lat": 45.758,
+      "lon": 4.8351,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Roanne",
+      "court": "Roanne",
+      "titre": "Cercle de Roanne",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "42",
+      "depNom": "Loire",
+      "region": "Auvergne-Rhône-Alpes",
+      "villes": "Roanne",
+      "lieu": "Loire (42) · Roanne",
+      "lat": 46.0443,
+      "lon": 4.0797,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
     {
       "nom": "Saint-Etienne",
       "court": "Saint-Etienne",
@@ -61,10 +112,10 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
-      "lat": 48.261,
-      "lon": -4.06,
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
+      "lat": 47.9982,
+      "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
       ],
@@ -291,6 +342,25 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.931,
+      "lon": 2.1052,
+      "boosteuses": [
+        "Apolline"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Clamart",
       "court": "Clamart",
       "titre": "Cercle de Clamart",
@@ -337,6 +407,23 @@
       "lieu": "Yvelines (78) · Versailles",
       "lat": 48.8039,
       "lon": 2.1191,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Rouen",
+      "court": "Rouen",
+      "titre": "Cercle de Rouen",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "76",
+      "depNom": "Seine-Maritime",
+      "region": "Normandie",
+      "villes": "Rouen",
+      "lieu": "Seine-Maritime (76) · Rouen",
+      "lat": 49.4412,
+      "lon": 1.0912,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
