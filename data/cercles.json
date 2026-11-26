@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-26T12:00:42.902Z",
+  "genere_le": "2026-11-26T13:01:58.946Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -31,23 +31,6 @@
       "lieu": "Rhône (69) · Lyon",
       "lat": 45.758,
       "lon": 4.8351,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Roanne",
-      "court": "Roanne",
-      "titre": "Cercle de Roanne",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "42",
-      "depNom": "Loire",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Roanne",
-      "lieu": "Loire (42) · Roanne",
-      "lat": 46.0443,
-      "lon": 4.0797,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -142,23 +125,6 @@
       "recherches": []
     },
     {
-      "nom": "Saint-Brieuc",
-      "court": "Saint-Brieuc",
-      "titre": "Cercle de Saint-Brieuc",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "22",
-      "depNom": "Côtes-d'Armor",
-      "region": "Bretagne",
-      "villes": "Saint-Brieuc",
-      "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
-      "lat": 48.5108,
-      "lon": -2.7657,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Vannes",
       "court": "Vannes",
       "titre": "Cercle de Vannes",
@@ -176,23 +142,6 @@
       "recherches": []
     },
     {
-      "nom": "Mulhouse",
-      "court": "Mulhouse",
-      "titre": "Cercle de Mulhouse",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "68",
-      "depNom": "Haut-Rhin",
-      "region": "Grand Est",
-      "villes": "Mulhouse",
-      "lieu": "Haut-Rhin (68) · Mulhouse",
-      "lat": 47.7526,
-      "lon": 7.3255,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
       "nom": "Reims",
       "court": "Reims",
       "titre": "Cercle de Reims",
@@ -205,23 +154,6 @@
       "lieu": "Marne (51) · Reims",
       "lat": 49.2535,
       "lon": 4.0551,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Strasbourg",
-      "court": "Strasbourg",
-      "titre": "Cercle de Strasbourg",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "67",
-      "depNom": "Bas-Rhin",
-      "region": "Grand Est",
-      "villes": "Strasbourg",
-      "lieu": "Bas-Rhin (67) · Strasbourg",
-      "lat": 48.5691,
-      "lon": 7.7621,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -634,40 +566,6 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.2382,
       "lon": -1.5603,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Cannes",
-      "court": "Cannes",
-      "titre": "Cercle de Cannes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "06",
-      "depNom": "Alpes-Maritimes",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Cannes",
-      "lieu": "Alpes-Maritimes (06) · Cannes",
-      "lat": 43.5454,
-      "lon": 7.0152,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Marseille",
-      "court": "Marseille",
-      "titre": "Cercle de Marseille",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "13",
-      "depNom": "Bouches-du-Rhône",
-      "region": "Provence-Alpes-Côte d'Azur",
-      "villes": "Marseille",
-      "lieu": "Bouches-du-Rhône (13) · Marseille",
-      "lat": 43.2803,
-      "lon": 5.3806,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
