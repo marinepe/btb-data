@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-26T09:00:36.152Z",
+  "genere_le": "2026-11-26T10:01:34.259Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -118,25 +118,6 @@
       "lon": -4.0972,
       "boosteuses": [
         "Gaëlle"
-      ],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Morlaix",
-      "court": "Morlaix",
-      "titre": "Cercle de Morlaix",
-      "format": "presentiel",
-      "statut": "lancement",
-      "dep": "29",
-      "depNom": "Finistère",
-      "region": "Bretagne",
-      "villes": "Morlaix",
-      "lieu": "Finistère (29) · Morlaix",
-      "lat": 48.5971,
-      "lon": -3.8215,
-      "boosteuses": [
-        "Marie"
       ],
       "metiers": [],
       "recherches": []
@@ -463,10 +444,10 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "Villeneuve-sur-Lot",
-      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
-      "lat": 44.4183,
-      "lon": 0.7484,
+      "villes": "",
+      "lieu": "Lot-et-Garonne (47)",
+      "lat": 44.367,
+      "lon": 0.461,
       "boosteuses": [
         "Mélanie",
         "Nathalie"
@@ -498,23 +479,6 @@
       "metiers": [
         "Mandataire d'assurance"
       ],
-      "recherches": []
-    },
-    {
-      "nom": "Biarritz",
-      "court": "Biarritz",
-      "titre": "Cercle de Biarritz",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "64",
-      "depNom": "Pyrénées-Atlantiques",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Biarritz",
-      "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
-      "lat": 43.4709,
-      "lon": -1.5557,
-      "boosteuses": [],
-      "metiers": [],
       "recherches": []
     },
     {
@@ -617,23 +581,6 @@
       "lieu": "Mayenne (53) · Laval",
       "lat": 48.0578,
       "lon": -0.7692,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Nantes",
-      "court": "Nantes",
-      "titre": "Cercle de Nantes",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "44",
-      "depNom": "Loire-Atlantique",
-      "region": "Pays de la Loire",
-      "villes": "Nantes",
-      "lieu": "Loire-Atlantique (44) · Nantes",
-      "lat": 47.2382,
-      "lon": -1.5603,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
