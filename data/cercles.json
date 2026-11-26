@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-26T14:00:59.239Z",
+  "genere_le": "2026-11-26T14:21:06.281Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -530,6 +530,23 @@
       "lieu": "Gironde (33) · Bordeaux",
       "lat": 44.8624,
       "lon": -0.5848,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Pamiers",
+      "court": "Pamiers",
+      "titre": "Cercle de Pamiers",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "09",
+      "depNom": "Ariège",
+      "region": "Occitanie",
+      "villes": "Pamiers",
+      "lieu": "Ariège (09) · Pamiers",
+      "lat": 43.1278,
+      "lon": 1.6168,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
