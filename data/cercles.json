@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-26T14:21:06.281Z",
+  "genere_le": "2026-11-26T14:24:52.856Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -547,7 +547,9 @@
       "lieu": "Ariège (09) · Pamiers",
       "lat": 43.1278,
       "lon": 1.6168,
-      "boosteuses": [],
+      "boosteuses": [
+        "Sandrine"
+      ],
       "metiers": [],
       "recherches": []
     },
