@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-27T18:00:26.239Z",
+  "genere_le": "2026-11-27T19:00:29.619Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -513,23 +513,6 @@
       "lieu": "Pyrénées-Atlantiques (64) · Biarritz",
       "lat": 43.48285,
       "lon": -1.55882,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
-    {
-      "nom": "Bordeaux",
-      "court": "Bordeaux",
-      "titre": "Cercle de Bordeaux",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "33",
-      "depNom": "Gironde",
-      "region": "Nouvelle-Aquitaine",
-      "villes": "Bordeaux",
-      "lieu": "Gironde (33) · Bordeaux",
-      "lat": 44.8367,
-      "lon": -0.58105,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
