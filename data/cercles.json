@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-27T11:01:25.345Z",
+  "genere_le": "2026-11-27T12:00:36.949Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -412,6 +412,23 @@
       "recherches": []
     },
     {
+      "nom": "Rouen",
+      "court": "Rouen",
+      "titre": "Cercle de Rouen",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "76",
+      "depNom": "Seine-Maritime",
+      "region": "Normandie",
+      "villes": "Rouen",
+      "lieu": "Seine-Maritime (76) · Rouen",
+      "lat": 49.44014,
+      "lon": 1.0894,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Agen",
       "court": "Agen",
       "titre": "Cercle d'Agen",
@@ -471,8 +488,8 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
+      "villes": "Clermont-Dessous",
+      "lieu": "Lot-et-Garonne (47) · Clermont-Dessous",
       "lat": 44.24604,
       "lon": 0.42129,
       "boosteuses": [
@@ -624,6 +641,23 @@
       "recherches": []
     },
     {
+      "nom": "Nantes",
+      "court": "Nantes",
+      "titre": "Cercle de Nantes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "44",
+      "depNom": "Loire-Atlantique",
+      "region": "Pays de la Loire",
+      "villes": "Nantes",
+      "lieu": "Loire-Atlantique (44) · Nantes",
+      "lat": 47.21811,
+      "lon": -1.55302,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Cannes",
       "court": "Cannes",
       "titre": "Cercle de Cannes",
@@ -653,6 +687,23 @@
       "lieu": "Bouches-du-Rhône (13) · Marseille",
       "lat": 43.29337,
       "lon": 5.37133,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Nice",
+      "court": "Nice",
+      "titre": "Cercle de Nice",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Nice",
+      "lieu": "Alpes-Maritimes (06) · Nice",
+      "lat": 43.70304,
+      "lon": 7.27906,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
