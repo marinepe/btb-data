@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-27T09:03:32.558Z",
+  "genere_le": "2026-11-27T10:00:40.824Z",
   "cercles": [
     {
       "nom": "Grenoble",
@@ -112,8 +112,8 @@
       "dep": "29",
       "depNom": "Finistère",
       "region": "Bretagne",
-      "villes": "",
-      "lieu": "Finistère (29)",
+      "villes": "Quimper",
+      "lieu": "Finistère (29) · Quimper",
       "lat": 47.99471,
       "lon": -4.10792,
       "boosteuses": [
@@ -154,6 +154,23 @@
       "lieu": "Côtes-d'Armor (22) · Saint-Brieuc",
       "lat": 48.5108,
       "lon": -2.7657,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Vannes",
+      "court": "Vannes",
+      "titre": "Cercle de Vannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "56",
+      "depNom": "Morbihan",
+      "region": "Bretagne",
+      "villes": "Vannes",
+      "lieu": "Morbihan (56) · Vannes",
+      "lat": 47.65834,
+      "lon": -2.75985,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
@@ -325,6 +342,25 @@
       "recherches": []
     },
     {
+      "nom": "Saint-Germain-en-Laye",
+      "court": "Saint-Germain-en-Laye",
+      "titre": "Cercle de Saint-Germain-en-Laye",
+      "format": "presentiel",
+      "statut": "lancement",
+      "dep": "78",
+      "depNom": "Yvelines",
+      "region": "Île-de-France",
+      "villes": "Saint-Germain-en-Laye",
+      "lieu": "Yvelines (78) · Saint-Germain-en-Laye",
+      "lat": 48.8984,
+      "lon": 2.09199,
+      "boosteuses": [
+        "Apolline"
+      ],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Clamart",
       "court": "Clamart",
       "titre": "Cercle de Clamart",
@@ -427,8 +463,8 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
+      "villes": "Villeneuve-sur-Lot",
+      "lieu": "Lot-et-Garonne (47) · Villeneuve-sur-Lot",
       "lat": 44.40309,
       "lon": 0.70465,
       "boosteuses": [
@@ -452,8 +488,8 @@
       "dep": "47",
       "depNom": "Lot-et-Garonne",
       "region": "Nouvelle-Aquitaine",
-      "villes": "",
-      "lieu": "Lot-et-Garonne (47)",
+      "villes": "Clermont-Dessous",
+      "lieu": "Lot-et-Garonne (47) · Clermont-Dessous",
       "lat": 44.24604,
       "lon": 0.42129,
       "boosteuses": [
@@ -535,6 +571,23 @@
       "recherches": []
     },
     {
+      "nom": "Toulouse",
+      "court": "Toulouse",
+      "titre": "Cercle de Toulouse",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "31",
+      "depNom": "Haute-Garonne",
+      "region": "Occitanie",
+      "villes": "Toulouse",
+      "lieu": "Haute-Garonne (31) · Toulouse",
+      "lat": 43.60579,
+      "lon": 1.44863,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
       "nom": "Ancenis",
       "court": "Ancenis",
       "titre": "Cercle d'Ancenis",
@@ -600,6 +653,40 @@
       "lieu": "Loire-Atlantique (44) · Nantes",
       "lat": 47.21811,
       "lon": -1.55302,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Cannes",
+      "court": "Cannes",
+      "titre": "Cercle de Cannes",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "06",
+      "depNom": "Alpes-Maritimes",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Cannes",
+      "lieu": "Alpes-Maritimes (06) · Cannes",
+      "lat": 43.55332,
+      "lon": 7.01363,
+      "boosteuses": [],
+      "metiers": [],
+      "recherches": []
+    },
+    {
+      "nom": "Marseille",
+      "court": "Marseille",
+      "titre": "Cercle de Marseille",
+      "format": "presentiel",
+      "statut": "devenir",
+      "dep": "13",
+      "depNom": "Bouches-du-Rhône",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "villes": "Marseille",
+      "lieu": "Bouches-du-Rhône (13) · Marseille",
+      "lat": 43.29337,
+      "lon": 5.37133,
       "boosteuses": [],
       "metiers": [],
       "recherches": []
