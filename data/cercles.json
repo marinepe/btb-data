@@ -1,23 +1,6 @@
 {
-  "genere_le": "2026-11-28T10:00:19.568Z",
+  "genere_le": "2026-11-28T11:01:44.388Z",
   "cercles": [
-    {
-      "nom": "Grenoble",
-      "court": "Grenoble",
-      "titre": "Cercle de Grenoble",
-      "format": "presentiel",
-      "statut": "devenir",
-      "dep": "38",
-      "depNom": "Isère",
-      "region": "Auvergne-Rhône-Alpes",
-      "villes": "Grenoble",
-      "lieu": "Isère (38) · Grenoble",
-      "lat": 45.19397,
-      "lon": 5.73206,
-      "boosteuses": [],
-      "metiers": [],
-      "recherches": []
-    },
     {
       "nom": "Lyon",
       "court": "Lyon",
@@ -331,8 +314,8 @@
       "dep": "75",
       "depNom": "Paris",
       "region": "Île-de-France",
-      "villes": "Paris",
-      "lieu": "Paris (75) · Paris",
+      "villes": "",
+      "lieu": "Paris (75)",
       "lat": 48.87582,
       "lon": 2.33128,
       "boosteuses": [
